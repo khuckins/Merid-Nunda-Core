@@ -10,7 +10,7 @@ Merid-Nunda is the original name for Meridia, a Daedric Prince who was originall
 ## Installation
 This mod works with Candor Mod Manager, Vortex Mod Manager, and Manual Installations. Candor is by far the simplest method, and as such is the recommended one.
 
-![Compatible with Vortex Mod Manager](https://i.imgur.com/loTUWPA.png) ![Compatible with Vortex Mod Manager](https://i.imgur.com/UXk5kuH.png) ![Compatible with Vortex Mod Manager](https://i.imgur.com/loTUWPA.png)
+![Compatible with Vortex Mod Manager](https://i.imgur.com/loTUWPA.png) ![Compatible with Vortex Mod Manager](https://i.imgur.com/UXk5kuH.png)
 ### Candor
 1. Select Baldur's Gate 3 in Candor Mod Manager
 2. Select "Add Mods" and choose the .zip file containing this mod
