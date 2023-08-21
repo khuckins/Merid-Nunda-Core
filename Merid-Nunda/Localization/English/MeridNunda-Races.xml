@@ -1,0 +1,106 @@
+<contentList date="27/11/2020 01:10">
+  <!-- 
+    - Base
+    - Imperials
+    - Bretons
+    - Nords
+    - Redguard
+    - Altmer
+    - Bosmer
+    - Dunmer
+    - Orsimer
+  -->
+
+  <!-- Base Races -->
+  <content contentuid="e2757d05-15e8-42cc-81d9-16253e6b8aa4" version="1">Tamrielic Humans</content>
+  <content contentuid="94962636-2697-45ab-8762-9f626bde988d" version="1">Tamrielic Elves</content>
+
+  <!-- Imperials -->
+  <content contentuid="219e74a0-7a1b-4eca-8b35-317c968cfb97" version="1">Cyrodil</content> <!-- Crodils makes more sense than Imperial during this time period, and Cyrod sounds too cumbersome. -->
+  <content contentuid="d53a4a3d-f0bd-4c0a-8cd3-404ac7da3ce3" version="1">Colovian</content>
+  <content contentuid="6a70dfcd-652e-448b-9060-1429f03a6da3" version="1">Nibenese</content>
+  <content contentuid="1069c76d-3c06-4881-933b-a8f91d957869" version="1">The Cyrodils are a melting pot of various cultures and communities, and other humans are often mistaken for them. Cosmopolitan in nature, Cyrodiils are gregarious, and excel in the arts of diplomacy.</content>
+  <content contentuid="580ad4d4-f162-4f40-94d2-925e2dc4ec30" version="1">Found primarily in western Cyrodiil, Colovians are known for their martial culture. Preferring function over form, even their nobility opt to wear plain clothing. Their accents are more harsh, and guttural, compared to their Nibenese cousins.</content>
+  <content contentuid="4a0c8e1d-d6d0-4f80-9306-25bf211d9b35" version="1">Native to eastern and southern Cyrodiil, the Nibenese are where Cyrodiils get their reputation as traders and diplomats. Open-minded and not averse to gaudiness, their storytelling techniques are prone to metaphors and vaguaries.</content>
+  
+  <!-- Bretons -->
+  <content contentuid="97c340f9-7da1-4591-9a46-5b21de738a84" version="1">Breton</content>
+  <content contentuid="064c9064-ebd1-4f1d-85ca-50acc33bc181" version="1">The Bretons were born of Humans and Mer over the course of centuries, and while they appear mostly human, they carry a strong connection to Magicka.</content>
+  
+  <!-- Nords -->
+  <content contentuid="080c278b-9e88-4ef3-8ba7-1080705a8bc8" version="1">Nord</content>
+  <content contentuid="c69ce1f3-3276-4101-8e99-5aa54e552a71" version="1">The Nords first came to Tamriel as refugees from the cold northern continent of Atmora. Fierce, stubborn, and hardy, the Nords prefer direct confrontation over magic and subterfuge.</content>
+  
+  <!-- Redguards -->
+  <content contentuid="308cca8b-7b83-428c-ab45-402d9dc762f2" version="1">Redguard</content>
+  <content contentuid="7768bc2c-519e-471e-b4c2-4c37f1b6f410" version="1">The Redguard arrived from the west, fleeing a sinking homeland. Now settled into the lands of Hammerfel, the Redguard are known for philosophy, integrity, and swordsmanship.</content>
+  
+  <!-- Altmer -->
+  <content contentuid="3bf3de76-fb3b-409e-8d98-09be1ea1306a" version="1">Altmer</content>
+  <content contentuid="48814e0d-ecf6-4372-8302-1631b23d74e8" version="1">Altmer, or High Elves, are haughty, aristocratic, and hold themselves as superior to the other races. Already one of the most magically potent societies, the longer an Altmer lives, the stronger of a mage they may become - and nobody's quite sure if there's a limit.</content>
+  
+  <!-- Bosmer -->
+  <content contentuid="85c4af37-022a-4397-936e-ed6026c764b1" version="1">Bosmer</content>
+  <content contentuid="70092ba6-a733-41ef-b65d-c9be6bfc4672" version="1">Bosmer are skilled bowmer, mischief-makers, and friends of the wild. Bound by Y'ffre not to harm the flora of Valenwood, they are largely carnivorous.</content>
+  
+  <!-- Dunmer -->
+  <content contentuid="b188f40f-64ee-49fb-9bbc-e08f2061ebf1" version="1">Dunmer</content>
+  <content contentuid="7a42e1ad-8747-46d5-80e0-62975631d538" version="1">Dunmer, or Dark Elves, inhabit the Eastern Province of Morrowind. They hold a strong aptitude for magic, but are typically unfriendly toward outsiders - especially Nords. Their pride is second only to the Altmer.</content>
+  <content contentuid="d22c6f24-71c5-4581-8008-d8922f00ff68" version="1">Most dunmer are associated, whether by job, honor, or by birth, with one of the great houses. Those that eschew the Great Houses often live difficult lives, but are also bound to fewer rules.</content>
+  <content contentuid="e0fd35dc-7c44-4653-b23e-1f0d62fe55ca" version="1">Hlaalu</content>
+  <content contentuid="d9d22c37-5774-49e3-b87f-28cd84d6bdd8" version="1">House Hlaalu are merchants and diplomats above all else. They have a hold on the heartlands of Morrowind, and believe that to trade is to honor the gods and ancestors.</content>
+  <content contentuid="3030667b-9e58-4a19-a979-0f0ac904b837" version="1">Redoran</content>
+  <content contentuid="abd37201-8883-45e9-8412-dfcee13cec74" version="1">House Redoran are the honorable warrior class of Morrowind. They are dependable, and align themselves closely with the religious center, House Indoril, and put duty first toward the Tribunal, then to House, and third to Family.</content>
+  <content contentuid="1d68e727-9ef7-4932-a1c7-29ceb7b7ce3c" version="1">Telvanni</content>
+  <content contentuid="43d57b30-056a-4c1d-b870-3003525f1809" version="1">The Telvanni are an unknown quantity to many, even native Dunmer. What matters to them, above all else, is the pursuit of knowledge.</content>
+  <content contentuid="9e584c44-b760-44c2-8335-edbe22690b2c" version="1">Indoril</content>
+  <content contentuid="9f850fd1-312f-41bc-bcf1-28d14a0e281b" version="1">The Indoril represent the Temple of the Tribunal and control the holy sites and capitol cities of Morrowind. Their word is the law of the land, and as such, all members of House Indoril are forced to study the law and accepted history of Morrowind.</content>
+  <content contentuid="76a5ec89-72b8-43a6-a611-1aab662faddd" version="1">Dres</content>
+  <content contentuid="b497dd50-9467-4d64-aced-2d20e3b3ca36" version="1">The Dres control the agricultural center of Morrowind, and are known to be slavers, Daedra worshippers, and missionaries.</content>
+
+  <!-- Orsimer -->
+  <content contentuid="97af45c8-90ee-42ab-a765-6f27f3d4426e" version="1">Orsimer</content>
+  <content contentuid="04152375-b032-44d2-a59d-8127eb787a91" version="1">Iron Orsimer</content>
+  <content contentuid="9bd5df51-e89c-4add-956a-8d923963690b" version="1">The Orsimer are much-maligned, previously considered Goblin-ken and called Orcs, the Orsimer are a nomadic people who value honor and strength. Their craftmanship is second to none, and most follow Malacath, god of Outcasts.</content>
+  <content contentuid="770d787a-6a31-4248-b7f2-4c2b18e24201" version="1">Wood Orsimer</content>
+  <content contentuid="74221676-fca2-4eee-9cf4-cc7a1f0b0b85" version="1">Wood Orsimer are those who have settled in Valenwood, and have more in common with Bosmer than they do with other Orsimer. They prize agility and knowledge.</content>
+
+  <!-- TODO: Implemented in the guide, but not ingame -->
+  <!-- Argonians (Saxhleel) -->
+
+  <!-- Khajiit -->
+  <!-- Ohmes -->
+  <!-- Ohmes-Raht -->
+  <!-- Suthay -->
+  <!-- Suthay-Raht -->
+  <!-- Cathay -->
+  <!-- Cathay-Raht-->
+  <!-- Tojay -->
+  <!-- Alfiq -->
+  <!-- Dagi -->
+  <!-- Pahmar -->
+  <!-- Senche -->
+
+  <!-- Imga -->
+
+  <!-- Beyond the Guide: May implement once all that's in the guide is implemented -->
+  <!-- Argonian - Naga -->
+  <!-- Argonian - Veeskhleel -->
+  <!-- Argonian - Sarpa -->
+  <!-- Argonian - Paatru -->
+  <!-- Breton: Reachmen -->
+  <!-- Maormer -->
+  <!-- Aylied -->
+  <!-- Dwemer -->
+  <!-- Falmer -->
+  <!-- Chimer -->
+  <!-- Minotaur -->
+  <!-- Kothringi -->
+  <!-- Lilmothiit -->
+  <!-- Akaviri -->
+  <!-- Tsaesci-->
+  <!-- Kamal -->
+  <!-- Ka'Po'Tun -->
+  <!-- Tang Mo -->
+
+</contentList>

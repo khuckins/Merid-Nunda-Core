@@ -1,0 +1,143 @@
+<contentList date="27/11/2020 01:10">
+  <!--
+    Contains Character Creation + Power and Passives for:
+    - The Warrior
+    - The Mage
+    - The Thief
+    - The Lady
+    - The Steed
+    - The Lord
+    - The Apprentice
+    - The Atronach
+    - The Ritual
+    - The Lover
+    - The Shadow
+    - The Tower
+    - The Serpent
+  -->
+
+  <!-- The Warrior -->
+  <content contentuid="67a86af1-6a08-4778-b5c0-870eacc60070" version="1">The Warrior (Strength)</content>
+  <content contentuid="6461265f-c43e-44d8-84be-f286b0b11235" version="1">The Warrior (Constitution)</content>
+  <content contentuid="61a6b6ce-65f6-4d66-b8cc-70230400cafc" version="1">The Warrior is the first Guardian Constellation and he protects his charges during their Seasons. The Warrior's own season is Last Seed, when his Strength is needed for the harvest. His charges are the Lady, the Steed, and the Lord. Those born under the sign of the Warrior are skilled with weapons of all kinds, but prone to short tempers.
+
+      Those born under the sign of the Warrior may add +1 to their Constitution or to their Strength Ability Scores.</content>
+  <content contentuid="21435d5f-a4b5-4bff-a762-6ef775c5e0c3" version="1">Warwyrd</content>
+  <content contentuid="e0281f85-0199-4511-9253-e11eb9d580e4" version="1">Those born under the sign of the Warrior may add +1 to their Constitution or to their Strength Ability Scores.</content>
+  <content contentuid="2d96b20a-a3d3-4816-9a05-8f096514896d" version="1">The Warrior is the first Guardian Constellation and he protects his charges during their Seasons. The Warrior's own season is Last Seed, when his Strength is needed for the harvest. His charges are the Lady, the Steed, and the Lord. Those born under the sign of the Warrior are skilled with weapons of all kinds, but prone to short tempers.</content>
+  
+  <!-- The Mage -->
+  <content contentuid="942d69fd-a633-4bad-9ff9-4445f801fbae" version="1">The Mage (Intelligence)</content>
+  <content contentuid="000ef401-45a5-44ad-a539-0929c0d91bd2" version="1">The Mage (Wisdom)</content>
+  <content contentuid="6de88f75-3ba1-4688-8d87-5d14b8dc2512" version="1">The Mage is a Guardian Constellation who's Season is Rain's Hand, when Magicka was first used by mankind. His charges are the Apprentice, the Atronach, and the Ritual. Those born under the Mage have more Magicka and talent for all kinds of spellcasting, but are often arrogant and absent-minded.
+
+      Those born under the sign of the Mage may add +1 to their Intelligence or to their Wisdom Ability Scores.</content>
+  
+  <!-- The Thief -->
+  <content contentuid="5a873208-ac51-40ad-b9cf-7df1a5deaa81" version="1">The Thief (Dexterity)</content>
+  <content contentuid="fc54274d-8dad-4224-94a3-6be95dad6281" version="1">The Thief (Charisma)</content>
+  <content contentuid="22ca93fa-4286-42b3-9583-ecdb4a70280c" version="1">The Thief is the last Guardian Constellation, and her Season is the darkest month of Evening Star. Her charges are the Lover, the Shadow, and the Tower. Those born under the sign of the Thief are not typically thieves, though they take risks more often and only rarely come to harm. They will run out of luck eventually, however, and rarely live as long as those born under other signs.
+
+      Those born under the sign of the Thief may add +1 to their Dexterity or to their Charisma Ability Scores.</content>
+  <content contentuid="d0d90246-f549-47e5-b704-7d0067c6d65b" version="1">Fay</content>
+  <content contentuid="f434a32d-8339-4004-a60d-099de36f29b1" version="1">Those born under the sign of the Mage may add +1 to their Intelligence or to their Wisdom Ability Scores.</content>
+  <content contentuid="95df0599-4d6b-4a2c-b932-633d3963b289" version="1">The Mage is a Guardian Constellation who's Season is Rain's Hand, when Magicka was first used by mankind. His charges are the Apprentice, the Atronach, and the Ritual. Those born under the Mage have more Magicka and talent for all kinds of spellcasting, but are often arrogant and absent-minded.</content>
+  
+  <!-- The Lady-->
+  <content contentuid="3ab32e77-d7b8-4f23-8c7a-8b2eb4d91861" version="1">The Lady</content>
+  <content contentuid="6bd7c521-68bd-48db-bfcc-0c4425d2d77e" version="1">The Lady is one of the Warrior's charges, and her Season is Hearthfire. Those born under the sign of the Lady are kind and tolerant.
+
+      Those born under the sign of the Lady may add their Constitution Modifier to their hit points an extra time when levelling up.</content>
+  <content contentuid="2250a13c-81c9-417e-ba26-3b4ebb4adbbc" version="1">Lady's Favor</content>
+  <content contentuid="ab3000d4-8c5a-431e-97ef-55ceb8b02ffa" version="1">Those born under the sign of the Lady may add twice their Level to their hit points when levelling up.</content>
+  <content contentuid="d5ebc16d-e479-49e3-8663-5c64ebf8e57f" version="1">The Lady is one of the Warrior's charges, and her Season is Hearthfire. Those born under the sign of the Lady are kind and tolerant.</content>
+  
+  <!-- The Steed-->
+  <content contentuid="e0c892d3-56c2-402e-a57c-36e043084bdd" version="1">The Steed</content>
+  <content contentuid="a933ea8e-0f3d-440c-9b78-1066af7939c3" version="1">The Steed is one of the Warrior's charges, and her Season is Mid Year. Those born under the sign of the Steed are impatient, and always hurrying from one place to another.
+
+      Those born under the sign of the Speed gain an additional 1.5m of movement.</content>
+  <content contentuid="31ef3632-fce0-4f7f-98e8-d38315eee275" version="1">Charioteer</content>
+  <content contentuid="c1dca3e5-2ad2-4ffb-93a5-d145d0128a77" version="1">Those born under the sign of the Speed gain an additional 1.5m of movement.</content>
+  <content contentuid="b8a0d68c-2631-47a3-8750-55ea4e976443" version="1">The Steed is one of the Warrior's charges, and her Season is Mid Year. Those born under the sign of the Steed are impatient, and always hurrying from one place to another.</content>
+  
+  <!-- The Lord -->
+  <content contentuid="57c9ec3f-24c4-450d-9241-4366af779907" version="1">The Lord</content>
+  <content contentuid="fd4b2b19-0695-4880-ae9b-6ddb8c556383" version="1">The Lord's Season is First Seed, and he oversees all of Tamriel during the planting. Those born under the sign of the Lord are stronger and healthier than those born under other signs.
+
+      Those born under the sign of the Lord are vulnerable to Fire. They also gain the ability Blood of the North, which allows them to regenerate health.</content>
+  <content contentuid="0869f8e5-49fd-4b12-b804-986d7fda7d26" version="1">Trollkin</content>
+  <content contentuid="a004ca33-5124-4f19-bba0-d4971d646543" version="1">Those born under the sign of the Lord are vulnerable to Fire. They also gain the ability Blood of the North, which allows them to regenerate health.</content>
+  <content contentuid="4f51e0f9-a750-4530-b439-bc7f76f0aff8" version="1">The Lord's Season is First Seed, and he oversees all of Tamriel during the planting. Those born under the sign of the Lord are stronger and healthier than those born under other signs.</content>
+  <content contentuid="e154355f-d57e-44b1-91a1-678c8e2d8281" version="1">Blood of the North</content>
+  <content contentuid="9c62f674-bb5e-42e5-95d4-847c702d8799" version="1">Your Lordly blood heals you for 3 points at the beginning of each of your turns for the duration of the power.</content>
+  <content contentuid="e965b44f-e6ec-41b2-b9b4-e2ec375acd84" version="1">Your Lordly blood is giving you [1] at the start of each turn.</content>
+  
+  <!-- The Apprentice-->
+  <content contentuid="dbc43fba-dce9-487d-8cc8-384e6f2bef08" version="1">The Apprentice</content>
+  <content contentuid="1301d7ea-094e-4af5-a062-6455d5be1c2b" version="1">The Apprentice's Season is Sun's Height. Those born under the sign of the Apprentice have a special affinity for magic of all kinds, but are equally as vulnerable to it.
+
+      Those born under the sign of the Apprentice are vulnerable to Magical attacks. You also gain an additional 1st Level Spell Slot, and recieve the spell Thunderwave.</content>
+  <content contentuid="95d60e74-3745-42a0-9a2c-c4d167e46d88" version="1">Elfborn</content>
+  <content contentuid="7362d840-2b78-416c-9d62-0c3ad975a19b" version="1">You are vulnerable to Magical attacks. You also gain an additional 1st Level Spell Slot, and receive the spell Thunderwave.</content>
+  <content contentuid="1049cbff-20aa-4253-8525-1f7ad8c84f86" version="1">The Apprentice's Season is Sun's Height. Those born under the sign of the Apprentice have a special affinity for magic of all kinds, but are equally as vulnerable to it.</content>
+  
+  <!-- The Atronach -->
+  <content contentuid="4f532949-b710-4ae7-99b0-fc5976a8968d" version="1">The Atronach</content>
+  <content contentuid="7addc435-46ca-42d2-bf43-74f9e06383e0" version="1">The Atronach's season is Sun's Dusk. Those born under this sign are natural sorcerers with deep reserves of Magicka, but they cannot generate Magicka on their own.
+                      Those born under the sign of the Atronach cannot regain spell slots above level 3 through a rest, but instead through being targeted by a hostile spell. Cantrips require a 1st-level Spell Slot to cast. They have two additional 1st level Spell Slots, and gain twice as many Spell Slots when levelling up.</content>
+  
+  <!-- The Ritual -->
+  <content contentuid="1f71cfee-4cc8-4286-955e-691d9542cff6" version="1">The Ritual</content>
+  <content contentuid="43a4f91e-902b-4da6-a86d-6f1affbea73d" version="1">The Ritual is one of the Mage's charges, and its season is Morning Star. Those born under this sign have a variety of abilities depending on the aspects of the moons and the Divines.
+
+      Those born under the sign of the Ritual are blessed with the abilities Mara's Gift and Blessed Word.</content>
+  <content contentuid="5bc15d1e-f008-4fa8-aa2e-ea24956244b5" version="1">The Ritual</content>
+  <content contentuid="365c3ec5-28cd-41f8-81a6-c1ed3e38889e" version="1">You receive the powers of Mara's Gift and Blessed Word</content>
+  <content contentuid="46ada640-2e98-4459-86a1-7b9a174d9b91" version="1">Mara's Gift</content>
+  <content contentuid="65aa536f-9025-44d7-a4d3-187e64640fff" version="1">Once per short or long rest, you may restore an amount of hit points equal to [1].</content>
+  <content contentuid="f9a7e565-9bf9-41ef-9959-3ffccfe069e4" version="1">Blessed Word</content>
+  <content contentuid="cebfe413-bf32-486f-b782-d02f0bb8b5c5" version="1">All undead within a 10 foot sphere within range are frightened. You may use this power once per long rest.</content>
+  
+  <!-- The Lover -->
+  <content contentuid="c99ee08f-8847-4b71-ab1e-3a9fedd4ebdc" version="1">The Lover</content>
+  <content contentuid="f75ad198-8578-498c-8e44-e1b094df77d7" version="1">The Lover is one of the Thief's charges, and her season is Sun's Dawn. Those born under the sign of the Lover are graceful and passionate.
+
+      Those born under the sign of the Lover have proficiency in Performance, Persuasion, and Athletics. You also have the ability Lover's Embrace.</content>
+  <content contentuid="05bce41c-6e6b-457d-9c14-7884f54d5d8c" version="1">Mooncalf</content>
+  <content contentuid="5e07fb11-6c8a-41af-a9fb-3036214fda01" version="1">You have proficiency in Performance, Persuasion, and Athletics. You also have the ability Lover's Embrace.</content>
+  <content contentuid="85d17151-8051-4b17-b7a2-db7e542a6ca0" version="1">Lover's Embrace</content>
+  <content contentuid="20956e3b-dd89-4947-a34e-ee7b67e8137e" version="1">You reach out to embrace a creature. The target must make a Willpower saving throw against your Spell Save DC.</content>
+  
+  <!-- The Shadow -->
+  <content contentuid="9934733e-7dda-4572-bc7a-191e26a654dd" version="1">The Shadow</content>
+  <content contentuid="00e980dc-5ae6-474a-9894-570d189333fc" version="1">The Shadow's season is Second Seed. The Shadow grants those born under her sign the ability to hide in shadows. They often go unnoticed even when their presence should be obvious.
+
+      Those born under the sign of the Shadow are proficient in Stealth, have the power to become invisible at will.</content>
+  <content contentuid="48364af4-dbf7-4faa-a39b-ed2b1d00da93" version="1">Moonshadow</content>
+  <content contentuid="fce12ef5-0dca-4e74-8398-8bfcbcc69b0d" version="1">You have proficiency in Stealth, and gain the power Moonshadow.</content>
+  <content contentuid="dd1fe080-0801-41cd-8238-341995c05a26" version="1">Moonshadow</content>
+  <content contentuid="67a1e6d5-28e4-462e-ace1-3cc901c9c6f1" version="1">When using this power, you and the items you carry are invisible. This invisibility lasts until either the duration ends, or you declare an action, including picking up an item or opening a door.</content>
+  
+  <!-- The Tower -->
+  <content contentuid="2a1180ca-4eb2-4da2-b809-d92b58876a77" version="1">The Tower</content>
+  <content contentuid="927f0ee2-d829-4483-8990-bd24270dbc37" version="1">The Tower is one of the Thief's charges, and its season is Frostfall. Those born under the sign of the Tower have a knack for finding gold and can open locks of all kinds.
+
+      Those born under the sign of the Shadow are proficient in Sleight of Hand, have the power to unlock objects.</content>
+  <content contentuid="01961a85-501f-47fd-b704-aeaf644bf950" version="1">Warden</content>
+  <content contentuid="159c621d-cea3-4c37-abba-8064250fd27d" version="1">Those born under the sign of the Shadow are proficient in Sleight of Hand, and have the Tower Key ability, allowing them to unlock objects.</content>
+  <content contentuid="09f4822b-2dce-4d7c-a3de-035dc75b4ab8" version="1">Tower Key</content>
+  <content contentuid="74dd3212-0a79-477b-a52c-f80b470c7feb" version="1">Once per long rest, you may unlock any locked object.</content>
+
+  <!-- The Serpent -->
+  <content contentuid="a3f0664e-825f-47c1-bcf6-1af850f75a03" version="1">The Serpent</content>
+  <content contentuid="15283a03-5e05-4c03-948c-5dd4f4ef3748" version="1">The Serpent wanders about the sky and has no season, though its motions are predictable to a defree. No characteristics are common toall who are born under the sign of the Serpent. Those born under this sign are the most blessed and the most cursed.
+
+      Those born under the sign of the Shadow have an additional Bonus Action, as well as the Star-Cursed power.</content>
+  <content contentuid="4393337a-cb36-4c2a-84b4-8962f3a44486" version="1">Star-Curse</content>
+  <content contentuid="a7228251-7657-494f-a2aa-1a14490776fb" version="1">Once per long rest, you can inflict poison on a creature that you touch, causing them to take [1] per turn for the duration of the power.</content>
+  <content contentuid="fdee63b6-3dd2-4a77-83b0-8a60d738db93" version="1">Star-Cursed</content>
+  <content contentuid="a67c87da-85ed-4f90-b0c9-104025250ae2" version="1">You've been cursed by one born under the sign of the Serpent. At the end of each turn, you take [1].</content>
+  <content contentuid="65883f56-3259-4a6f-82f8-e17bdda6acdf" version="1">You've cursed a character with your Star-Curse. You share in the pain, taking [1].</content>
+
+  </contentList>

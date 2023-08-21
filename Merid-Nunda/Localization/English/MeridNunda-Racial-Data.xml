@@ -1,0 +1,95 @@
+<contentList date="27/11/2020 01:10">
+  <!-- 
+      Powers and Passives for races
+      - Cyrodil: Colovian
+      - Breton
+      - Nord
+      - Redguard
+      - Altmer
+      - Bosmer
+      - Dunmer
+      - Orsimer
+  -->
+
+  <!-- Cyrodil: Colovian -->
+  <content contentuid="cf513781-c845-4cd2-911c-ff1b06bda857" version="1">Star of the West</content>
+  <content contentuid="d123e29b-8d4c-4cdb-8323-14a67cbd7be6" version="1">When you are reduced to 0 hit points, but not killed outright, you instead drop to 1HP.</content>
+
+  <!-- Breton -->
+  <content contentuid="dde89f09-8bfb-452b-b354-c93864ffb8b8" version="1">Dragon Skin</content>
+  <content contentuid="d1a71f85-fcd5-444b-8a13-24167914bbd6" version="1">You are resistant to Magical damage.</content>
+
+  <!-- Nord -->
+  <content contentuid="4e76cd4c-63a8-40c1-b4a0-00c1b2883a0e" version="1">Battlecry</content>
+  <content contentuid="bc844749-1626-4cb9-8975-3bf7373b822c" version="1">All enemies within 30ft that can hear you must succeed on a Wisdom save against your Strength score, or become Stunned until the end of your next turn.</content>
+  <content contentuid="a9ecaa3a-7d34-461e-b801-669cbdecfd15" version="1">Northern Hide</content>
+  <content contentuid="cc919f97-f526-4689-a4b1-9512be3e3477" version="1">You have resistance to the Cold.</content>
+
+  <!-- Redguard -->
+  <content contentuid="bde5a06d-8542-46bf-87df-fe17edc0c892" version="1">Adrenaline Rush</content>
+  <content contentuid="45e6350e-4f4e-4850-ab33-9ddfe8ab5083" version="1">You pump yourself up for combat, gaining a number of temporary hit points equal to your Level + Your Constitution Modifier. These hit points expire after 3 turns. You also gain an additional 10 feet of movement speed.</content>
+  <content contentuid="de099f3c-5f81-473f-8f93-a8a0b58acab2" version="1">Adrenaline</content>
+  <content contentuid="f097e3a8-9a3f-4001-ab2f-39f7e03a6416" version="1">Your health and speed are boosted.</content>
+  <content contentuid="a8cfafe1-77a8-4a17-a54d-c3585b86da11" version="1">Strong Immune System</content>
+  <content contentuid="0ce880d1-f826-4f81-b0ed-a00e46403dda" version="1">You have resistance to Poison.</content>
+
+  <!-- Altmer -->
+  <content contentuid="f2743aea-4657-4fad-bffd-17a877c21b57" version="1">Highborne</content>
+  <content contentuid="4af32237-63b1-4320-8893-5a305882ffa2" version="1">Powerful magicka courses through your veins, granting you immunity to poisons and disease, but making you more susceptible to magic attacks.</content>
+
+  <!-- Bosmer -->
+  <content contentuid="61ff0130-3ba5-457c-85c9-4dbd3d631f26" version="1">Natural Shapeshifter</content>
+  <content contentuid="be116282-f3e4-4661-8200-4286edd71d7e" version="1">You may transform into an animal for 5 turns.</content>
+  <content contentuid="6be18935-41c4-449f-bedd-1736324fd607" version="1">Natural Shapeshifter (Boar)</content>
+  <content contentuid="6be18935-41c4-449f-bedd-1736324fd607" version="1">Natural Shapeshifter (Boar)</content>
+  <content contentuid="88f1b65f-7d04-4fc2-884b-09e1fcc7e237" version="1">You may transform into a Boar for 5 turns.</content>
+  <content contentuid="5f5b2cde-749c-46c6-b4bf-f33f623cc2c5" version="1">Natural Shapeshifter (Bear)</content>
+  <content contentuid="a0c81618-4407-4af2-a5da-3d0a47386391" version="1">You may transform into a Bear for 5 turns.</content>
+  <content contentuid="a39bc95c-3d8b-430d-9c3e-922e72cf5a66" version="1">Natural Shapeshifter (Rat)</content>
+  <content contentuid="c5626ff4-15cd-4cc6-8a8e-e24895b2cc47" version="1">You may transform into a Rat for 5 turns.</content>
+  <content contentuid="e8ad4949-f3ba-4fc0-a13e-ecf04bfd8830" version="1">Natural Shapeshifter (Giant Spider)</content>
+  <content contentuid="e4cdbb84-395d-4fd6-8222-22edda3e69b0" version="1">You may transform into a Giant Spider for 5 turns.</content>
+  <content contentuid="1ed1b77d-9858-40d9-803f-61f41f50cfc6" version="1">Natural Shapeshifter (Wolf)</content>
+  <content contentuid="95fbb3bd-6a46-4b18-9db9-7da0121f97c1" version="1">You may transform into a Wolf for 5 turns.</content>
+  <content contentuid="475270dd-77ac-4548-af01-8355ce6e6947" version="1">Natural Shapeshifter (Badger)</content>
+  <content contentuid="594f2535-27d0-4d59-a918-080294857340" version="1">You may transform into a Badger for 5 turns.</content>
+  <content contentuid="5ea6b325-3d0c-4707-9ee1-9a26bb6d3562" version="1">Natural Shapeshifter (Raven)</content>
+  <content contentuid="d32d51fa-de46-4f3c-9472-20ee00303444" version="1">You may transform into a Raven for 5 turns.</content>
+  <content contentuid="8e24e5e2-5d39-4917-a7ab-1c666d97571b" version="1">Natural Shapeshifter (Cat)</content>
+  <content contentuid="0e5ccec4-4b67-4bb1-885e-8a345dd369c6" version="1">You may transform into a Cat for 5 turns.</content>
+  <content contentuid="3a468a10-a59c-45aa-bae2-71276ba997da" version="1">Natural Shapeshifter (Crab)</content>
+  <content contentuid="3148cc20-321e-4c57-8540-507328084548" version="1">You may transform into a Crab for 5 turns.</content>
+  <content contentuid="5ba62058-d74d-4394-8698-8551193861b8" version="1">Boar Shape</content>
+  <content contentuid="e34d96e3-dbdf-4da5-97fd-7c0beef0e659" version="1">You have assumed the form of a Boar for 5 turns.</content>
+  <content contentuid="73f9b01b-7c36-415f-8285-d59aba038fd9" version="1">Bear Shape</content>
+  <content contentuid="3b12456c-ff47-4891-afc4-d4e5a8b4d511" version="1">You have assumed the form of a Bear for 5 turns.</content>
+  <content contentuid="b311338c-07c1-43a2-87e5-d00c4fcd92b4" version="1">Rat Shape</content>
+  <content contentuid="9bec5813-7c98-4aed-a0b0-258326ee9970" version="1">You have assumed the form of a Rat for 5 turns.</content>
+  <content contentuid="d30eb6f8-2e35-49eb-9172-66f929acae55" version="1">Giant Spider Shape</content>
+  <content contentuid="861ad078-8a57-4602-92cb-b2d504de4f50" version="1">You have assumed the form of a Giant Spider for 5 turns.</content>
+  <content contentuid="1e768428-690d-4fda-9f4f-69e529410675" version="1">Wolf Shape</content>
+  <content contentuid="a93b4215-ad9e-4323-b391-01c1b2cbd67a" version="1">You have assumed the form of a Wolf for 5 turns.</content>
+  <content contentuid="7d35ee36-1209-4398-80e3-dc95dbec248b" version="1">Badger Shape</content>
+  <content contentuid="47d0b172-3aea-43e1-804c-b5a3e5afc06e" version="1">You have assumed the form of a Giant Badger for 5 turns.</content>
+  <content contentuid="d6898081-ae09-41e9-8917-9de8c09436e6" version="1">Raven Shape</content>
+  <content contentuid="1b24f4a7-9c9a-4218-a074-7dd5a05f07f1" version="1">You have assumed the form of a Raven for 5 turns.</content>
+  <content contentuid="95a83e73-4aa5-4252-ade4-8322e64462f7" version="1">Cat Shape</content>
+  <content contentuid="41403ac8-7ee4-4dd6-bd49-8e1f069d56fd" version="1">You have assumed the form of a Cat for 5 turns.</content>
+  <content contentuid="d7d8287f-774b-4141-9e0b-1e50cc117195" version="1">Crab Shape</content>
+  <content contentuid="6fc6861c-24b7-4f4f-b95a-56f5c46cee0f" version="1">You have assumed the form of a Crab for 5 turns.</content>
+  <content contentuid="878706a7-6b12-469d-bb69-b8cea2adfc77" version="1">Beast Tongue</content>
+  <content contentuid="537504a7-a300-47ea-ac60-abac95f7565a" version="1">You may converse with animals.</content>
+
+  <!-- Dunmer -->
+  <content contentuid="cac9d184-d43c-4534-834a-37ab0f1d0552" version="1">Ancestral Protection</content>
+  <content contentuid="d23cec0f-9787-4261-b8d9-2f1f83b70326" version="1">You call upon the wisdom of your ancestors, granting you +3 AC until the beginning of your next turn.</content>
+  <content contentuid="ef74f34b-5e3c-47c3-a1a0-5c244648ef2f" version="1">Your ancestors guide your movement, increasing your AC by 3.</content>
+  <content contentuid="e917e9b8-2f5d-4628-8656-82b962ea7b6f" version="1">Ashborn</content>
+  <content contentuid="8778514b-f744-4c23-9be1-db30d2e8c203" version="1">You are naturally resistant to Fire damage.</content>
+
+  <!-- Orsimer -->
+  <content contentuid="d4ecb700-0319-4839-b1e5-1b8b90ed3986" version="1">Berserker Rage</content>
+  <content contentuid="517a5b57-acfc-4337-8d82-ff144b221d40" version="1">Gain a number of hit points equal to your Constitution Modifier + Your Level, and advantage on all melee attacks for 5 turns. However, you cannot cast spells, and you lose 3AC.</content>
+  <content contentuid="755e835d-b29f-49d3-95e1-c30e4a7bfe44" version="1">Your health is boosted and you have advantage on all melee attacks, though you may not cast spells and lose 3AC.</content>
+
+</contentList>

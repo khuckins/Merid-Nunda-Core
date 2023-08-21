@@ -1,0 +1,42 @@
+<contentList date="27/11/2020 01:10">
+  <content contentuid="7ee1c2dc-7edc-4c51-ba5a-76615e7a47d2" version="1">Meridia's Grasp</content>
+  <content contentuid="2d584611-483d-4021-8b38-e59295677afa" version="1">This creature is in Caught in Meridia's light. The next character to attack it will receive [1].</content>
+  <content contentuid="309dcff6-6028-4310-bfed-f25d36a5ec96" version="1">Spell Strike</content>
+  <content contentuid="6b1ad082-8a34-4532-9bef-3974e56370d9" version="1">This character is able to add its Wisdom modifier for Melee and Ranged weapon attacks, and deals an additional 1d4 Force damage.</content>
+  <content contentuid="9afeeafc-7d90-426b-9a32-0792e6b884b2" version="1">Magic Aura (Advantage)</content>
+  <content contentuid="fe610d21-c3e5-47d7-b903-426c44dcd8a9" version="1">Magic Aura (Healing)</content>
+  <content contentuid="0bdd503c-cdff-42ae-a868-3fb369b1a4ab" version="1">Magic Aura (Damage)</content>
+  <content contentuid="f64876f6-8b2e-4eaa-8ae0-1919a025552c" version="1">Razorskin</content>
+  <content contentuid="9b723843-643d-4b21-bb83-c767db0f67af" version="1">Expertise: Arcana</content>
+  <content contentuid="dbd7277c-849d-4c8a-aca9-d72b4c485622" version="1">You gain +1 to Arcana.</content>
+  <content contentuid="48f1adbf-8b13-4d64-8db9-1faed6e3b5a8" version="1">Expertise: History</content>
+  <content contentuid="b63c020f-45cf-402b-8d91-0fa3749e4bc0" version="1">You gain +1 to History.</content>
+  <content contentuid="80a11ddb-428e-403f-bed1-cd3da25f5b84" version="1">Expertise: Insight</content>
+  <content contentuid="bf73ebe6-247d-4594-9325-8f30d3760d0a" version="1">You gain +1 to Insight.</content>
+  <content contentuid="1dacf4cf-fdcf-4eaa-b67b-e3c6cf9071cb" version="1">Expertise: Investigation</content>
+  <content contentuid="2e7f23b7-f30b-4d58-9cdd-cc0574a48c6d" version="1">You gain +1 to Investigation.</content>
+  <content contentuid="7f1094e2-25c7-406f-999b-ff09566da3c2" version="1">Expertise: Medicine</content>
+  <content contentuid="700b319e-3adc-4595-9cf1-bba3fd433865" version="1">You gain +1 to Medicine.</content>
+  <content contentuid="cecf4bde-0521-451f-aa01-429ec92b2d69" version="1">Intensive Practice</content>
+  <content contentuid="4422694f-7c49-4c35-84c0-881341d1a2eb" version="1">This character has had intensive training in the arcane arts granting them an additional 1st-Level Spell Slot.</content>
+  <content contentuid="9ece615b-6b85-48c1-ba90-fbe01bb9878f" version="1">This character has had intensive training in the arcane arts granting them an additional 2nd-Level Spell Slot.</content>
+  <content contentuid="b7993826-af5c-4411-8ab3-83ac5bb10d3a" version="1">This character has had intensive training in the arcane arts granting them an additional 3rd-Level Spell Slot.</content>
+  <content contentuid="d3e34020-2315-48fa-8516-ad0460417637" version="1">Arcane Haste</content>
+  <content contentuid="bc9ea247-3875-43ef-9500-6c3fa1bc25b5" version="1">When you cast a spell, you may take the disengage, dash, or hide action as a bonus action.</content>
+  <content contentuid="86c02a73-9d7a-4130-884a-74922968e568" version="1">Arcane Combatant: Archery</content>
+  <content contentuid="65bb5399-97c4-465b-b8de-642f9a1f2ef5" version="1">Arcane Combatant: Defense</content>
+  <content contentuid="f0090666-c38c-422d-aa26-59a7d96889a9" version="1">Arcane Combatant: Dueling</content>
+  <content contentuid="2cd30f01-8ddd-4dc5-8a89-3e6f72fe75e7" version="1">Arcane Combatant: Great Weapon Fighting</content>
+  <content contentuid="50ac0c76-2522-4e4f-94f6-3532ca647905" version="1">Arcane Combatant: Protection</content>
+  <content contentuid="c02c8b5d-c573-44b7-b958-67858700eb2e" version="1">Arcane Combatant: Two Weapon Fighting</content>
+  <content contentuid="3ed90aaf-58a3-40a6-a728-8d72c034b42e" version="1">Adept Casting (Damage)</content>
+  <content contentuid="60b815c9-0929-4a0d-8581-3ff9ae12fef6" version="1">When casting a spell from your chosen school, if it is an offensive spell, you may add your Spellcasting Modifier to your damage.</content>
+  <content contentuid="e649f8d2-586b-4295-a3a1-b4e9ba7d9af2" version="1">Adept Casting (Spell DC)</content>
+  <content contentuid="72451da8-67d5-4f50-84fd-dbb37e583b4d" version="1">When casting a spell from your chosen school, if it would require the target to make a Saving Throw, you may add your Spellcasting Modifier to the Spell DC.</content>
+  <content contentuid="591868b5-30b1-4a04-80c5-80d900f1bbff" version="1">Improved Minor Illusion</content>
+  <content contentuid="e9e877ab-c962-49e5-9b5f-0b5679ae7e6a" version="1">You are able to cast an improved version of Minor Illusion, with a larger radius and higher range, using a Bonus action.</content>
+  <content contentuid="91327a78-4fe8-4110-88bf-9b8bc0df4b67" version="1">Portent</content>
+  <content contentuid="de8b9452-480a-43cc-8093-a37eac62cde2" version="1">Once per long rest, you may re-roll any attack roll, saving throw, or ability check for three turns.</content>
+  <content contentuid="31b81a78-42d7-4bde-86e2-0d1eb227a5d9" version="1">Verisimilitude</content>
+  <content contentuid="b201c30e-b898-46be-9923-acfe2210905b" version="1">When casting Thaumaturgy, you gain an additional +1 to Intimidation, Performance, and Advantage in Sleight of Hand.</content>
+</contentList>

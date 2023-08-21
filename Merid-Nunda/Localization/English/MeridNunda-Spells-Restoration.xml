@@ -1,0 +1,18 @@
+<contentList date="27/11/2020 01:10">
+  <!-- Cantrips -->
+  <content contentuid="0b42514f-c1a0-437b-a19c-f7d2317d5ea1" version="1">Lesser Ward</content>
+  <content contentuid="04a0cf3e-eda7-4740-8072-60085eff447e" version="1">You are resistant to Bludgeoning damage.</content>
+  <content contentuid="13cfab83-75c2-4a70-bd30-280b24e977be" version="1">The creature you touch is branded with a Daedric inscription, granting them resistance to all Bludgeoning damage for 10 minutes.</content>
+  <content contentuid="075c6424-b0b3-4b44-b016-ca618da24e07" version="1">Hearth Heal</content>
+  <content contentuid="5e82b7dd-3316-484b-8a90-79cc02d01da7" version="1">Healing energy surrounds you, restoring your health by [1].</content>
+  <content contentuid="17503eb9-cdf1-46d3-964e-abd758d472e6" version="1">Healing Hands</content>
+  <content contentuid="978c7923-1974-4a8d-9f34-0b516f40f743" version="1">Healing Hands (Owner)</content>
+  <content contentuid="187666e6-2df7-49b2-89e9-5e3d5b2ad197" version="1">This character is currently concentrating on the Healing Hands spell.</content>
+  <content contentuid="3685baf8-fb60-48f4-a372-3e45455d25f1" version="1">As long as you are affected, the caster of Healing Hands may Heal you using Healing Hands without using a Spell Slot.</content>
+  <content contentuid="2dadb0ff-c32d-40f5-8964-c1be5dd005e8" version="1">Golden strands of magicka flow from your hands, restoring your target's health by [1]. By concentrating on this spell, you may continue to heal the initial target without using a Spell Slot for the duration of the spell.</content>
+  <content contentuid="b8b875ee-78bf-4f6a-b6bd-db133cdfe703" version="1">Golden strands of magicka flow from your hands, restoring your target's health by [1] for each turn you stay in melee range.</content>
+  <content contentuid="ece7dc02-cc7c-4b1f-9e27-6f7fb6ff69a4" version="1">Resist Poison</content>
+  <content contentuid="96f3151d-a81d-499a-8a7d-7d8d53665640" version="1">You are resistant to Poison</content>
+  <content contentuid="06c9f5a6-2821-4313-9e69-d828eda50031" version="1">For the duration of the spell, you are resistant to Poisons.</content>  
+
+</contentList>

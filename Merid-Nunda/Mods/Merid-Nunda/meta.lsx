@@ -21,11 +21,11 @@
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="Tags" type="LSWString" value=""/>
                     <attribute id="Type" type="FixedString" value="Modder's Resource"/>
-					<attribute id="UUID" type="FixedString" value="b59526e8-cc4b-4889-916a-3910138a1b5f"/>
-					<attribute id="Version" type="int32" value="1"/>
+                    <attribute id="UUID" type="FixedString" value="b59526e8-cc4b-4889-916a-3910138a1b5f"/>
+                    <attribute id="Version64" type="int64" value="1"/>
                     <children>
                         <node id="PublishVersion">
-                            <attribute id="Version" type="int32" value="268435456"/>
+                            <attribute id="Version64" type="int64" value="268435456"/>
                         </node>
                         <node id="Scripts">
                             <children>

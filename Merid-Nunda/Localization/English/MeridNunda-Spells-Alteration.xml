@@ -1,0 +1,116 @@
+<contentList date="27/11/2020 01:10">
+<content contentuid="b6945847-f5ba-474d-be6d-80fe78734e29" version="1">Buoyancy</content>
+<content contentuid="4a2e5b25-d0c9-46d9-865b-b12918fc0171" version="1">Your swimming speed is increased, and you may walk on shallow running water as if you were walking on ground.</content>
+<content contentuid="075ecf5b-a30a-4eb9-8a41-fa043cf2892a" version="1">Candlelight</content>
+<content contentuid="6a470737-7f69-4066-8c76-c8fb61c8bebf" version="1">A magical light follows your every move.</content>
+<content contentuid="d91cd3a3-2391-457b-ac5e-3a923d2cd4ab" version="1">Dismiss Candlelight</content>
+<content contentuid="0d9e0651-f7aa-4caf-bddc-ac048dd2263c" version="1">Allow the Candlelight spell to fade.</content>
+<content contentuid="f53213ea-5a59-45e0-a8eb-740988aefbe8" version="1">Fortify</content>
+<content contentuid="98dbc6d1-fccc-41a1-9203-6230822facda" version="1">For the next round, you have [1], and advantage on rolls against being Frightened.</content>
+<content contentuid="a3b49158-18a6-4588-ad69-6f35cf0f2f45" version="1">Fortified</content>
+<content contentuid="80819cd4-ac39-4007-97be-00092e21b929" version="1">Vero's Knock</content>
+<content contentuid="1ceb5032-1e81-47e3-8e7f-764bde4a828c" version="1">You cause vibrations in the air that sound suspiciously like a knock, gathering the attention of enemies within [1].</content>
+<content contentuid="98098d9e-8cec-4fb3-8042-b415974e7833" version="1">Barrier</content>
+<content contentuid="8dfe3356-1014-499e-8dcc-909289d3582d" version="1">An invisible barrier of magical force appears and protects whatever creature you choose to touch, including yourself. For three rounds, that creature has +5 AC, and takes no damage from Magic Missile.</content>
+<content contentuid="ca22398f-9a40-4561-8402-b078d8964598" version="1">An invisible barrier of magical force protects this creature, granting them +3 AC and protection from Magic Missile.</content>
+<content contentuid="ad622270-28cb-4fdb-9af0-33d9a4258597" version="1">Burdening Touch</content>
+<content contentuid="78cf7fa9-1b96-44b5-a4b2-4f104a6a08fc" version="1">Reaching out to touch a creature, you lower their movement to 3m.</content>
+<content contentuid="34d283e2-4165-4c31-97e4-e1c7d7f795e2" version="1">Burden</content>
+<content contentuid="5e14931b-f70b-4fd1-bba0-4e347ee27636" version="1">This creature has been magically burdened, dramatically lowering their movement speed.</content>
+<content contentuid="ad622270-28cb-4fdb-9af0-33d9a4258597" version="1">Barrier</content>
+<content contentuid="78cf7fa9-1b96-44b5-a4b2-4f104a6a08fc" version="1">An invisible barrier of magical force protects this creature, granting them +3 AC and protection from Magic Missile.</content>
+<content contentuid="3aab423a-17c3-41db-8251-19e2274a445c" version="1">Doorjam</content>
+<content contentuid="3aab423a-17c3-41db-8251-19e2274a445c" version="1">This item has been magically locked.</content>
+<content contentuid="03156bce-8241-4d70-b9b3-ca885e6b3e69" version="1">Magical energy sprouts from your fingers, locking a magical object you touch.</content>
+<content contentuid="84ce167d-ed2b-4558-ad1f-0e5fd522bc2e" version="1">Feather</content>
+<content contentuid="84ce167d-ed2b-4558-ad1f-0e5fd522bc2e" version="1">Feather</content>
+<content contentuid="c7057d2d-f06f-48e4-89bd-0ab67c5affbc" version="1">This creature has magically had its weights lifted, increasing their movement speed and granting proficiency in Athletics.</content>
+<content contentuid="c9d7c904-8be8-488d-9607-80ae2af433c3" version="1">Gust Form</content>
+<content contentuid="063864d7-6442-44dd-8c17-bde50d7fe690" version="1">This creature's movements have become one with the wind, granting them a 1d6 bonus to hit with melee attacks.</content>
+<content contentuid="55b9390c-386b-4076-b410-ab6701ddcab1" version="1">You may choose one friendly target in range. Until the end of their next turn, any melee attack they make carries the force of the wind, granting a bonus to hit of 1d6.</content>
+<content contentuid="8ca84eae-4a4b-4ec9-8742-1551d3981a45" version="1">Magesoap</content>
+<content contentuid="0b89f179-405b-473d-8355-98179d338ec6" version="1">A creature you touch is cleansed of all dirt and grime. The target regains [1], and has advantage on Charisma checks.</content>
+<content contentuid="e7f6d5ed-bd8e-4a41-bbb2-0f873450dd1c" version="1">Freshly Bathed</content>
+<content contentuid="9b7fcdd5-dc65-4b46-91cc-8cf36f0c2198" version="1">This creature has advantage on Charisma checks.</content>
+<content contentuid="e2b18384-cbe9-48ce-bccd-41d7a164f671" version="1">Oakflesh</content>
+<content contentuid="02c59ce5-f08b-43f2-94d4-0ebe0b98c075" version="1">This creature's skin is covered in bark, setting their minimum AC to 15, but rendering them vulnerable to fire.</content>
+<content contentuid="3024c757-4a86-4da8-a13a-e7760d2aac73" version="1">You touch a creature, transforming their skin to a bark-like texture, Increasing their AC by 2, but rendering them weak to fire.</content>
+<content contentuid="cdbe0733-e063-47ea-acda-d73bbdfc2ddb" version="1">Sanction</content>
+<content contentuid="169db030-a863-4b16-9d5e-800211f6ea7d" version="1">Sanctioned</content>
+<content contentuid="2ba46906-c0ae-46fe-96df-cff4d65d8eaa" version="1">For the duration, whenever the creature attacks another creature, it takes [1].</content>
+<content contentuid="9e352081-77af-4153-b194-fc291b43008e" version="1">Whenever the creature attacks another creature, it takes [1].</content>
+<content contentuid="2e495b53-5e8a-497c-8116-ca7fc06f9fe7" version="1">Stonefist</content>
+<content contentuid="2438ffa9-bb8d-4073-a38b-ca7c1cfc6ab1" version="1">This creature's main hand has become stone.</content>
+<content contentuid="7d1a1274-2308-45cb-b014-e6c5033d06bc" version="1">One of your fists transforms into stone, allowing you to deal an unarmed attack capable of [1].</content>
+<content contentuid="69aafee0-6d1d-4cd5-aaf7-dcd545d51f25" version="1">Pummel</content>
+<content contentuid="c647febf-84a7-40fd-b607-5c3e839083d6" version="1">You smash your Stone Fist into your target, dealing [1]</content>
+<content contentuid="8a40dbf6-a7df-4408-a4bd-959877c7a262" version="1">You feel light as a Feather. Gain Proficiency in Athletics, and +7.5 to your movement speed for the duration of the spell.</content>
+<content contentuid="996d05db-9443-4e39-bf2e-948bfc44e4a0" version="1">Alter Weapon</content>
+<content contentuid="4b4d4be4-6309-4f18-a8e9-b7eef67e619c" version="1">While holding a weapon, you channel Magicka into it, altering its properties: Enflame: In addition to its regular attack, your weapon now deals an additional 1d6 Fire damage. | Healing Strike: Your weapon now heals its targets for the damage it would otherwise cause. Undead targets instead take the regular amount as Radiant damage. | Static Bite: Your weapon now deals an additional 1d7 Lightning damage. | Swift Strike: You have advantage on attack rolls with this weapon. | Screaming Cleave: Your weapon now deals an additional 1d6 Thunder damage. | Viscous Tear: Regardless of the weapon's damage type, it now deals an additional 1d8 Slashing damage.</content>
+<content contentuid="1a945e27-0809-4a1a-aad3-043995cb59a5" version="1">Enflame</content>
+<content contentuid="d6c5f2b7-6352-4790-9f54-333a985bfebf" version="1">This weapon is covered in magical fire.</content>
+<content contentuid="e26a46d9-64a8-458a-ac60-0f5fe58d4897" version="1">While holding a weapon, you channel Magicka into it, altering its properties to deal an additional [1]</content>
+<content contentuid="1c55ce66-90fe-4238-ba01-1c770e59989d" version="1">Healing Strike</content>
+<content contentuid="fd10662b-829b-45ff-b2df-5939a2b9fd9f" version="1">This weapon may heal [1] instead of damage.</content>
+<content contentuid="2f4c08e2-ddc7-47ad-993b-e199952ed220" version="1">While holding a weapon, you channel Magicka into it, altering its properties to be able to Heal targets for [1], or deal Radiant damage if undead.</content>
+<content contentuid="c1470751-c48b-4563-bf18-81913363649f" version="1">You may make a Weapon attack to Heal targets for [1], or deal the equivalent amount as Radiant damage to Undead targets.</content>
+<content contentuid="e85123e3-56ae-4de7-8a78-6d4cb04070f1" version="1">Static Bite</content>
+<content contentuid="fa854054-11e0-4d41-8185-135d5b0668ce" version="1">This weapon is covered in magical electricity.</content>
+<content contentuid="d0bfcace-3930-42f1-ab8a-3a0600039a28" version="1">While holding a weapon, you channel Magicka into it, altering its properties to deal an additional [1].</content>
+<content contentuid="1be187e4-7ec6-49f4-ae86-64875d57e2c5" version="1">Swift Strike</content>
+<content contentuid="0019bcbb-0d96-4305-978a-1f49a78af9ce" version="1">You have advantage on attack rolls.</content>
+<content contentuid="b420a342-a0d4-4a2c-8947-df51de12b85a" version="1">While holding a weapon, you channel Magicka into it, altering its properties to always give you Advantage when attacking.</content>
+<content contentuid="871be402-1112-4ce1-a2ba-177e341102ab" version="1">Screaming Cleave</content>
+<content contentuid="84159ef9-db54-4897-a910-9445374a2dde" version="1">This weapon is covered in magical vibrations.</content>
+<content contentuid="37f2fde7-2074-4017-81e6-80f99d29eebd" version="1">While holding a weapon, you channel Magicka into it, altering its properties to deal an additional [1].</content>
+<content contentuid="3a84a936-2cd5-448a-b9e1-b6997b89fb15" version="1">Vicious Tear</content>
+<content contentuid="3a84a936-2cd5-448a-b9e1-b6997b89fb15" version="1">This weapon is magically sharpened.</content>
+<content contentuid="b3cf44d2-f321-42ff-887e-473e40a9c6f2" version="1">While holding a weapon, you channel Magicka into it, altering its properties to deal an additional [1].</content>
+<content contentuid="13283190-a79d-4bdc-9f37-1885d93b5f75" version="1">Batvision</content>
+<content contentuid="c2f5e301-6dbd-49de-9140-229036af5418" version="1">This creature has Blindsight.</content>
+<content contentuid="3bc5dd4b-f6d3-4612-a7b6-d1e055aa1c7a" version="1">You touch a creature and grant it Blindsight for up to 18 turns.</content>
+<content contentuid="144fca03-1bdf-4622-8542-7fd0d98d1795" version="1">Bravery</content>
+<content contentuid="e1911d5e-13f1-4a06-acf6-d1fda04fb4f6" version="1">This charater has advantage on all saving throws against being Frightened.</content>
+<content contentuid="605cdd4e-b410-4876-92fd-54530f79dfb2" version="1">When you cast this spell, a glittering mantle of courage settles upon a creature you touch. The target has advantage on saving throws against being frightened for the duration.</content>
+<content contentuid="066b931e-e3b7-4df3-8554-851786d7ba0c" version="1">Fire Shield</content>
+<content contentuid="14c7aefb-ec00-4261-92c9-5143e486c67f" version="1">A protective layer of fire weather's this creature's body, giving off light, providing Fire resistance, and lashing out at attackers.</content>
+<content contentuid="7ff3a598-cdea-41a7-9f96-c9f7a78719f0" version="1">Thin, wispy flames wreathe your body for the duration, shedding bright light, and providing you with Resistance to Fire damage. Additionally, whenever a creature within Melee range attacks you, the Shield erupts in flame, lashing out at the attacker for [1].</content>
+<content contentuid="3e418974-d4d0-435e-b79f-79a5469b0bac" version="1">You can end the spell early by using an action to dismiss it.</content>
+<content contentuid="ff21fff8-dd76-4afe-9f6a-cf3988d50d51" version="1">Dismiss Fire Shield</content>
+<content contentuid="d1398ea0-9bd8-4afe-8fb3-6bcb932262a2" version="1">You dismiss Fire Shield, ending the Status effect.</content>
+<content contentuid="c36e2e2d-b696-4141-90a6-f5287acd5b41" version="1">Frost Barrier</content>
+<content contentuid="85a51141-690b-4137-8ae0-13be9a1658c5" version="1">A protective layer of frost weather's this creature's body, protecting your body and providing Cold resistance.</content>
+<content contentuid="a47cff91-c0e2-430b-9f8c-885116ce0965" version="1">Tendrils of icy air wreathe your body for the duration, reflecting light, and providing you with Resistance to Cold damage. Additionally, whenever a creature within Melee range attacks you, the barrier flings shards of ice at the attacker for [1].</content>
+<content contentuid="f62bcb34-064f-4e33-aacf-c9b8c7f12624" version="1">Dismiss Frost Barrier</content>
+<content contentuid="d3072e91-7481-4be7-8879-65c283b9df10" version="1">You dismiss Frost Barrier, ending the Status effect.</content>
+<content contentuid="9fde0f9d-dcfb-422d-9a40-5332caff3642" version="1">Hypothermia</content>
+<content contentuid="cacd4c36-1f31-45c8-9740-7ee84b68620f" version="1">This creature is suffering from Hypothermia.</content>
+<content contentuid="c48f9200-0879-40f9-9dcb-21ad12cc46d4" version="1">You point at a target within range, and begin to turn its body moisture into ice. The target makes a Constitution saving throw. If the creature fails, it takes [1], and suffers Hypothermia.</content>
+<content contentuid="284074fe-4534-4805-8809-11246ac1a3ca" version="1">At the start of each round after being affected by Hypothermia, an additional [1] of Cold Damage is applied, stacking each turn.</content>
+<content contentuid="bb6a6f5b-dd12-49e9-b41b-187275091a27" version="1">Lightning Shield</content>
+<content contentuid="ab35bca8-09fe-4b6d-9907-f8567fe9cd4c" version="1">Snapping sparks surround this creature's body for the duration, giving light, and providing with Resistance to Lightning damage. </content>
+<content contentuid="9013f3ef-a06d-4c7e-a5f7-41e96e890b54" version="1">Snapping sparks surround your body for the duration, giving light, and providing you with Resistance to Lightning damage. Additionally, whenever a creature within Melee range attacks you, the shield electrifies your attacker for [1].</content>
+<content contentuid="116c1c5e-e67a-4dec-994e-2bfe21f29fa0" version="1">You can end the spell early by using an action to dismiss it.</content>
+<content contentuid="7de236fd-b150-4ee2-b0e6-657cfb03819d" version="1">Dismiss Lightning Shield</content>
+<content contentuid="3e93e7aa-db70-40a2-a807-2c33bea72064" version="1">You dismiss Lightning Shield, ending the Status effect.</content>
+<content contentuid="12e00942-6f3b-48a8-b103-09b34fcd4c5e" version="1">Lucksap</content>
+<content contentuid="01b49f2b-bd0a-4d23-8d28-74b7ccae2eef" version="1">When you cast this spell, you bestow a minor curse on a creature you can see within range. That creature must make a successful Wisdom saving throw, or suffer your choice of on of the following effects for the duration: Foil: The target has disadvantage on Intelligence and Wisdom saving throws. | Fumble: The target has disadvantage on Attack rolls. | Foul: Whenever the target is attacked, they deal an extra [1].</content>
+<content contentuid="5190c0bc-3330-48a6-ae1a-3cbfed618697" version="1">Foil</content>
+<content contentuid="0249ad75-8828-4ba1-a16c-30f48a7040a5" version="1">This creature has disadvantage on Intelligence and Wisdom saving throws.</content>
+<content contentuid="50e68873-7f7c-44c5-a788-30c0ce25ddd5" version="1">The target has disadvantage on Intelligence and Wisdom saving throws.</content>
+<content contentuid="a1a2d116-0911-452a-9d4c-2def1a53229a" version="1">Fumble</content>
+<content contentuid="75d7e878-5116-4c63-8706-ab2828887374" version="1">This creature has disadvantage on Attack rolls.</content>
+<content contentuid="8c476865-cfa4-4eb0-865c-fb955579a400" version="1">The target has disadvantage on Attack rolls.</content>
+<content contentuid="e23b5f4d-fbf7-477a-9100-2d6e88f209e3" version="1">Foul</content>
+<content contentuid="c1782045-9817-46b8-ab44-95b044e8353d" version="1">Whenever this creature is attacked, it takes additional damage.</content>
+<content contentuid="369d7de3-1246-4ad2-a003-cead9ab5298c" version="1">Whenever the target is attacked, it takes [1].</content>
+<content contentuid="50f07948-8e0a-4bef-87f2-274506e08b08" version="1">Razorskin</content>
+<content contentuid="2b9d5aa1-6fa9-4d64-9612-f7dfb79d0fcb" version="1">This character's skin has been transformed into razor-sharp scales, increasing their AC and dealing [1] to any creature that attacks it.</content>
+<content contentuid="abfaad76-d53e-4f0a-9e47-d1c2eab7b028" version="1">You touch a creature, transforming their skin into Razor-Sharp scales. Its Armor Class can't become lower than 15, regardless of armor. In addition, any creature that attacks it with a melee attack during the duration must roll a Dexterity saving throw. On a failed save, the creature takes [1].</content>
+<content contentuid="41f94ab6-bdd4-4d50-a79f-6882060db56f" version="1">On a succesful save, attackin creatures take only half as much damage.</content>
+<content contentuid="cbc2271b-55de-422f-8535-740d2bbd04e3" version="1">Spellstrike</content>
+<content contentuid="d9aa632f-118d-4308-a31d-aa4c854f961f" version="1">This character is able to add its Wisdom modifier for Melee and Ranged weapon attacks, and deals an additional 1d4 Force damage.</content>
+<content contentuid="6c72b92a-08d0-476b-a534-79ff1d32a47f" version="1">You may add your Wisdom modifier to any melee or ranged attacks you make. In addition, your attacks deal an additional [1].</content>
+<content contentuid="a8f42bac-5480-4b6d-96dc-f2ad1a4db7ea" version="1">Spike Growth</content>
+<content contentuid="c957b592-29f6-4c02-b108-9c94a5dee775" version="1">The ground twists and sprouts hard spikes and thorns. The area is covered in thorny vines for the duration of the spell.</content>
+</contentList>

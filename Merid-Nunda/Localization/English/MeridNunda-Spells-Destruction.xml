@@ -1,0 +1,37 @@
+<contentList date="27/11/2020 01:10">
+  <!-- Cantrips -->
+  <content contentuid="5d073692-f990-41f7-a0cf-d42706f65c6a" version="1">Fleabite</content>
+  <content contentuid="7b80160e-406c-4688-98f6-08a61881bf8f" version="1">A creature that you can see, within 10ft, takes [1].</content>
+  <content contentuid="67733f62-93e1-4051-8265-d69f49d7454b" version="1">Frostwind Blade</content>
+  <content contentuid="371ed657-8fdd-4882-91d9-9a9f6ae2a80e" version="1">Magical ice encrusts your weapon, causing its attack to deal Cold damage.</content>
+  <content contentuid="a1d10d0d-c27b-4e5e-a7a6-9178aed0fcb2" version="1">Chill</content>
+  <content contentuid="026e35c1-bc97-4add-9c1a-19cd6b7eb427" version="1">The Target begins to feel unnaturally cold. Unless they are resistant to cold damage, they will become chilled and distracted, giving them disadvantage on Perception checks.</content>
+  <content contentuid="234477ce-abe9-4fa2-a264-ff4fbbf29a79" version="1">Ignite</content>
+  <content contentuid="d3e7695c-a084-42e9-b01c-b0fafde9cb07" version="1">An object or surface of your choice catches fire. If a creature is making direct contact with the object or surface, it takes 1d4 Fire damage.</content>
+  <content contentuid="39ff82dc-036f-4b79-89ac-7e50c134a5ca" version="1">Melt</content>
+  <content contentuid="8752708f-98c1-4cef-a181-f837f8bf6eb8" version="1">Your hands become unnaturally warm. You may touch someone to deal [1]. The target also loses the Chilled status, if they already had it.</content>
+  <content contentuid="8752708f-98c1-4cef-a181-f837f8bf6eb8" version="1">Gust</content>
+  <content contentuid="80bcc296-6ea7-4cb3-89ff-b12d647c0df0" version="1">A strong breeze momentarilly distracts any creature caught in its radius.</content>
+  
+  <!-- 1st Level-->
+  <content contentuid="e45483d8-e25c-4030-b012-0ab8803be742" version="1">Frostbite</content>
+  <content contentuid="da7fcf8b-bbb3-4d5a-9fb0-af9e118cbd66" version="1">You cause numbing frost to form on one creature that you touch. The target must make a Constitution saving throw. On a failed save, the target takes 1d6 cold damage, and it has disadvantage on the next weapon attack roll it makes before the end of its next turn.</content>
+  <content contentuid="de337536-d526-4d98-9b6a-65262c6e00ec" version="1">Pinprick</content>
+  <content contentuid="ac4b19c4-666d-443e-b70d-fe2c12dc087d" version="1">You reach your hands out at a creature you can see within range. A sharp pain strikes their body, dealing [1]. An affected creature takes an additional 3 piercing damage at the start of its next turn.</content>
+  <content contentuid="326d14ba-acc7-4b5e-870b-92d66b396fdf" version="1">Flash</content>
+  <content contentuid="a88e8880-d0b1-411d-880d-9362f9fa47c4" version="1">All enemies caught within the area of the spell must succeed a Constitution save, or become Blinded for 2 rounds.</content>
+  <content contentuid="84adb0ba-fdc6-4c6b-9285-80e9d32911ca" version="1">Sparks</content>
+  <content contentuid="18d9be1b-6649-4d27-bc28-6e7f9a89b866" version="1">Sparks of electricity shoot from your fingertips in a 15-foot cone, dealing [1].</content>
+  <content contentuid="284bd977-82af-4041-9e9b-ab319e8994d0" version="1">On a successful save, targets only take half as much damage.</content>
+  <content contentuid="44d818d1-44d5-4fea-bd9f-b116dc7e7060" version="1">Thundering Armor</content>
+  <content contentuid="869fa19c-e228-4011-a137-862bc7bbb884" version="1">You infuse a creature's armor or clothing with pulsing energy, increasing its protection by +2 AC.</content>
+  <content contentuid="060f3b6b-ea75-4421-a354-c3bfedc30dc0" version="1">The target also gains the ability sacrifice the spell's effects to blast nearby enemies away.</content>
+  <content contentuid="4d79b647-ba76-4d3f-9679-a2f82f68ed48" version="1">Release Energy</content>
+  <content contentuid="08be2163-bbba-43c6-b365-e9e6e9141295" version="1">You release the energy pulsing through your armor from the Thundering Armor into a single creature, dealing [1] and pushing them away.</content>
+  <content contentuid="fb06b061-f787-49b7-9cf9-bd6acf87125a" version="1">Release Energy (Area)</content>
+  <content contentuid="4661300b-35fe-479b-9f1a-2ef2e8f51227" version="1">You release the energy pulsing through your armor from the Thundering Armor, dealing force damage and pushing away nearby creatures.</content>
+  <content contentuid="9aff92ad-1454-4e12-93d1-24a4b7cfabd9" version="1">Torpor</content>
+  <content contentuid="5e5b87db-c157-42c6-958b-984eaebb5c18" version="1">Raw Magicka drips from your hands, slowing down the target, and reducing their AC by 2.</content>
+  <content contentuid="186c8429-7335-426d-924e-c15806be325c" version="1">Wound</content>
+  <content contentuid="58c3c554-3b68-4be3-8ef7-b6a9abf5b31b" version="1">Deep Gashes appear on the target, reducing its maximum hit points and dealing damage equal to your Wisdom Modifier.</content>
+</contentList>

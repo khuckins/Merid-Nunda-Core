@@ -1,0 +1,49 @@
+<contentList date="27/11/2020 01:10">
+  <!-- Cantrips -->
+  <content contentuid="6fb39224-92e0-4031-8a93-10d926bf2efe" version="1">Azura's Rain</content>
+  <content contentuid="3bff5e88-088a-45a7-b7e3-b26d447390a9" version="1">A minor portal to Moonshadow appears above the target location, showering radiant twilight. Any enemy who fails a Dexterity saving throw struck directly takes [2], or if caught in the radius take [1].</content>
+  <content contentuid="e2757d05-15e8-42cc-81d9-16253e6b8aa4" version="1">Mehrune's Smoke</content>
+  <content contentuid="087eadde-160f-493d-9a20-4fdd52a192a9" version="1">Smoke emanates from a minor portal to the Deadlands, creating a mystical darkness in a [1] area.</content>
+  <content contentuid="1d5c8545-436c-4f11-ab02-37c5b03ade05" version="1">Meridia's Grasp</content>
+  <content contentuid="15853b72-5362-44ff-b310-d36f90d1502e" version="1">A flash of silver light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. On a hit, the target suffers [1], and you outline your enemy wwith the silver glow of the astral plane, exuding an energizing light that may aid an ally. The next time an ally hits the target with an attack roll before the end of your next turn, that ally gains temporary hit points equal to 1d6/2.</content>
+  
+  <!-- 1st Level-->
+  <content contentuid="81c611ca-fb01-4314-9693-7a4a8ad1d76b" version="1">Clannfear's Nose</content>
+  <content contentuid="1450156b-8e04-4267-9407-49ee6b8acbc0" version="1">You transform your nose into a Clannfear's beak, improving your tracking skills. Gain advantage on Perception and Survival skills for the duration.</content>
+  <content contentuid="4d06ceae-fb7c-48c0-8922-a2bdc11ffecf" version="1">Coldharbor's Rain</content>
+  <content contentuid="19f2efb4-6ea5-40fb-9e12-a515607aa034" version="1">You temporarily shift Coldharbor and Tamriel's phase in a 12m radius.  Any creature caught within the radius must make a Dexterity saving throw. If they fail, they must suffer the burns of Coldharbor. Regardless, they take [1].</content>
+  <content contentuid="60925182-b35c-41a0-a8dc-e3884e5abee5" version="1">Empathy</content>
+  <content contentuid="c2b9180a-5a5f-458c-be13-9d212baa6866" version="1">You draw on a plane of Oblivion, boosting your power of Insight. For the duration of the spell, you have Proficiency in Insight.</content>
+  <content contentuid="89c9e008-2be2-4001-b00e-270821c41fa7" version="1">Watcher</content>
+  <content contentuid="61248879-9644-48e7-ad72-a87c623d46f7" version="1">You bind a Lesser Daedra to watch over a creature, granting them an additional [1] to their attacks, Resistance to Necrotic damage, and forcing their opponents to make their attack rolls at disadvantage.</content>
+  <content contentuid="915aa549-ad0b-4be8-ac75-648bbd26f7c5" version="1">Bound Battleaxe</content>
+  <content contentuid="f4066a6c-e6fe-4660-8f0d-7adb9d5c80f3" version="1">You summon a Lesser Daedra, warping its form into that of a Battleaxe, which appears in your inventory.</content>
+  <content contentuid="d92ec699-b1e5-4d30-bea3-63b18cbcac66" version="1">Bound Greataxe</content>
+  <content contentuid="53ab9acf-c6b2-4e75-9390-aa04ed628bc4" version="1">You summon a Lesser Daedra, warping its form into that of a Greataxe, which appears in your inventory.</content>
+  <content contentuid="0d28cb50-e904-4588-bf99-a3bc864deea9" version="1">Bound Dagger</content>
+  <content contentuid="72e4cd1b-c981-453a-8950-7e0d73b65041" version="1">You summon a Lesser Daedra, warping its form into that of a Dagger, which appears in your inventory.</content>
+  <content contentuid="63590eec-6ebc-4ac2-9a45-f28cc7c7ac23" version="1">Bound Mace</content>
+  <content contentuid="4a65fa3b-a66e-4240-8749-7a4f5dacfcfb" version="1">You summon a Lesser Daedra, warping its form into that of a Mace, which appears in your inventory.</content>
+  <content contentuid="852c5b84-9fa1-42c4-a740-c6ba969b5461" version="1">Bound Warhammer</content>
+  <content contentuid="3cf0d4c8-55bf-4d93-8202-4475ef6ad493" version="1">You summon a Lesser Daedra, warping its form into that of a Warhammer, which appears in your inventory.</content>
+  <content contentuid="97a2032a-47c0-47df-a828-876031d68ce9" version="1">Bound Trident</content>
+  <content contentuid="16e0823f-3660-463d-ad1f-64ee99b92383" version="1">You summon a Lesser Daedra, warping its form into that of a Trident, which appears in your inventory.</content>
+  <content contentuid="ee53605f-1e7d-4b13-8969-8c1f834293b4" version="1">Bound Spear</content>
+  <content contentuid="ee3d7e0d-08f1-413f-bd51-83e853b7030d" version="1">You summon a Lesser Daedra, warping its form into that of a Spear, which appears in your inventory.</content>
+  <content contentuid="85209d2f-1f0f-416b-bd35-492c1cbc3828" version="1">Bound Pike</content>
+  <content contentuid="b841b904-1648-4b07-aa81-cb83930e4f7d" version="1">You summon a Lesser Daedra, warping its form into that of a Pike, which appears in your inventory.</content>
+  <content contentuid="565d277c-f55e-4486-a8d0-de7820961c49" version="1">Bound Shortsword</content>
+  <content contentuid="b20352b9-7226-4253-aaa6-c81bfceb1aa4" version="1">You summon a Lesser Daedra, warping its form into that of a Shortsword, which appears in your inventory.</content>
+  <content contentuid="141aeffa-8b10-4496-8c1a-b8477dcd3f18" version="1">Bound Longsword</content>
+  <content contentuid="fbf42d71-9c71-465a-aebb-89a282acec78" version="1">You summon a Lesser Daedra, warping its form into that of a Longsword, which appears in your inventory.</content>
+  <content contentuid="5daa3196-632c-4728-9cd0-b224f81f39da" version="1">Bound Greatsword</content>
+  <content contentuid="aeea7300-97c6-404c-a8a1-5004717b4c34" version="1">You summon a Lesser Daedra, warping its form into that of a Greatsword, which appears in your inventory.</content>
+  <content contentuid="18329099-c7ff-493c-91bf-5b2b45418dbd" version="1">Bound Light Crossbow</content>
+  <content contentuid="4e119908-66bf-4a12-b9c4-468e32117140" version="1">You summon a Lesser Daedra, warping its form into that of a Light Crossbow, which appears in your inventory.</content>
+  <content contentuid="e5a024d7-426c-4948-98b9-da0b8fc16a21" version="1">Bound Heavy Crossbow</content>
+  <content contentuid="a98c3bf8-4716-459f-b19e-de2c66b95460" version="1">You summon a Lesser Daedra, warping its form into that of a Heavy Crossbow, which appears in your inventory.</content>
+  <content contentuid="af485047-f5a8-43a1-9a34-1c621719e692" version="1">Bound Shortbow</content>
+  <content contentuid="06efceee-92da-4a3e-a297-b4998b8287db" version="1">You summon a Lesser Daedra, warping its form into that of a Shortbow, which appears in your inventory.</content>
+  <content contentuid="ebec3bd3-b531-4c35-91f3-27647955a575" version="1">Bound Longbow</content>
+  <content contentuid="bed984de-ac17-4239-a550-2d0708e0b04d" version="1">You summon a Lesser Daedra, warping its form into that of a Longbow, which appears in your inventory.</content>
+ </contentList>

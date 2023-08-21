@@ -1,0 +1,101 @@
+<contentList date="27/11/2020 01:10">
+  <!-- 
+    - Aedra
+    - Daedra
+    - Tribunal
+    - Other
+  -->
+
+  <!-- Aedra -->
+  <content contentuid="d87be127-fa90-4b1a-80e1-147af6938410" version="1">Akatosh</content>
+  <content contentuid="ecaf5d5d-0fb3-4278-aed0-620123a8dd6e" version="1">AKA, Akatosh, Aka-Tusk, Auri-El, Alkosh, Bormah. All names of the Aedric dragon god of time. Akatosh was the first of the et'Ada to emerge. He is present in most Tamrielic faiths, and exists as the chief deity among them. He embodies the qualities of endurance, invincibility, and legitimacy. His sign is the Hourglass.</content>
+  <content contentuid="ec4a26d0-2240-4cf3-b961-1bb24e0f5bb2" version="1">Arkay</content>
+  <content contentuid="d285eb4d-21c5-4edb-8cfc-c078f02233c2" version="1">Arkay, Tu'whacca, and Xaxes are the most well known names for the Aedric god of life and death. He's associated with funeral rites, the seasons, and all things cyclical. His followers despise necromancy and the undead. As such, any bodies buried under the rites of Arkay are blessed, and cannot be raised by Necromancy. His symbol is two overlapping squares, surrounding a sphere.</content>
+  <content contentuid="f7d869b0-d0af-428c-ba71-950605418543" version="1">Dibella</content>
+  <content contentuid="950e090e-e7e7-4d94-bdb2-acc2beceeae1" version="1">Dibella is the Aedric goddess of beauty, art, and music. Often compared to Mara, the goddess of love, Dibella is more focused on the physical. Her orders are often denounced as filled with prostitutes, but it is filled with many great artists, poets, writers, and musicians. Her symbol is the lily.</content>
+  <content contentuid="4488108a-9563-4699-91be-7f7c32509ad0" version="1">Julianos</content>
+  <content contentuid="01310b9f-9d3f-4428-ba19-15f0add58139" version="1">Julianos, also known as Jhunal, is the Aedric god of knowledge and wisdom. Widely accepted by mages across Tamriel, he is most associated with magic, though he is also the one who gave the gift of language and mathematics to the kingdoms of Man. He espouses virtues of knowledge, scholarship, and justice. His symbol is a triangle.</content>
+  <content contentuid="6be708a7-8dbd-4592-8930-758fd1ebdee4" version="1">Kynareth</content>
+  <content contentuid="be62de27-f0f3-4535-a7a4-57c5b7f979dd" version="1">Kynareth, who is also known as Kyne, Khenarthi, and Tava, is the Aedric goddess of nature and the lady of storms. A fearsome Aedra, she is equal parts mercy and fury. She was the first to accept Lorkhan's plan, and the rain is her tears after he was torn apart. Her symbol is the dove in some cultures, and in others, the hawk.</content>
+  <content contentuid="68caac79-706d-4735-ad28-32bd52344c01" version="1">Mara</content>
+  <content contentuid="00c7271e-923d-4eaa-9403-ab3bb14e2982" version="1">Mara, or in the Yokudan pantheon, Morwha, is the Aedric goddess of fertility and agriculture. Associated with weddings, healers, and bountiful harvests, Mara is one of the more popoular Aedra among the common people. Her symbol is the knot.</content>
+  <content contentuid="f3cc5cad-4db5-4279-8bdf-e058ebdad16d" version="1">Stendarr</content>
+  <content contentuid="17c6ca5a-14be-4644-8fbe-6c7c6f1088f5" version="1">Stendarr, S'rendarr, Onsi, or Stuhn, is the Aedric god of compassion, mercy, and rule by might. As Stuhn, he was the god of ransom as well. He commands his followers to heal the wounded, give to the needy, and give kindness to all mortals. They are also commanded to root out and destroy the undead, lycanthropes, vampires, and lesser Daedra. For this, he is known as the patron god of witchhunters. His symbol is the Chalice, except to the Nords, who visualisze a drinking horn.</content>
+  <content contentuid="9cc93dfb-5316-451b-af3a-c475b9adca28" version="1">Zenithar</content>
+  <content contentuid="3ba14d88-55c4-42d5-91f5-d951647b4672" version="1">Zenithar, or Zeht, Xen, Z'en, or Tsun, is typically the twin of Stendarr, and the Aedric god of trade, commerce, and communication. He looks after the worker class, and is the patron god of smiths and traders in particular. His symbol is the Anvil.</content>
+
+  <!-- Daedra -->
+  <content contentuid="521e368b-2dea-4902-b875-70ec7e443b53" version="1">Azura</content>
+  <content contentuid="0c483fa5-e21e-486e-a19b-322726195b5f" version="1">Presiding over the realm of Moonshadow, Azura's sphere is Dawn and Dusk, Vanity and Egotism. She is one of the few Daedric Princes seen by mortals as consistently 'good', and is primarily associated with the Dunmer and the Khajiit. Her Daedric servents are the Winged Twilights.</content>
+  <content contentuid="a4a51455-ddd6-443a-9673-5c4e9e928100" version="1">Boethiah</content>
+  <content contentuid="1b80743b-15af-43ab-9483-8bd58d0fd6ca" version="1">Known as the Prince of Plots, Boethiah's sphere is revolution, deceit, and conspiracy. Despite these spheres, she is often considered one of the 'good' Daedric Princes, occasionally aligning herself with Stendarr. She loves competition and battle. Her realm is Attribution's Share, and her most prized Daedric servants are the Hunger.</content>
+  <content contentuid="799516da-86b1-4b1e-85eb-17c9b691d736" version="1">Clavicus Vile</content>
+  <content contentuid="483e8f00-918f-4883-b4f5-a454787e071e" version="1">Known as the Prince of Pacts, Clavicus Vile's sphere covers pacts and wishes, trickery and serenity. He is often accompanie by a Daedric being in the form of a Dog, Barbas. His realm is Desideratum, an idyllic countryside, and his servants are the Skaafin and Djinn.</content>
+  <content contentuid="ef4cf0ee-7586-4512-87e4-4831b1904d09" version="1">Hermaeus Mora</content>
+  <content contentuid="94414050-8f06-4c16-b5f8-55156eb56d40" version="1">Hermaeus Mora's sphere is knowledge and understanding. Usually taking the shape of an amorphous, tentacled, many-eyed being, his realm is Apocrypha, an endless library with books of every era. His servants are the Seekers and Lurkers.</content>
+  <content contentuid="e6aff243-9b4e-4735-84ac-9dfcdec66557" version="1">Hircine</content>
+  <content contentuid="1f5cae7a-3cef-43df-9951-740f55bf25a3" version="1">Hircine is the God of the Hunt, the Daedric Prince of Sport, father of Therianthrops, and he presides over the realm of the Hunting Grounds. His servants are the Huntsmen, humanoid hunters with the appearance of wild men, and werebeasts.</content>
+  <content contentuid="93a3a7b2-60f8-427f-9cd7-d996fcac6422" version="1">Malacath</content>
+  <content contentuid="776a4aaa-3d7e-4298-92fe-7d14c9e441ed" version="1">Malacath, known by some as Mauloch, Orkey, and the Orc-father, is intrinsically related to the dead god Trinimac, and is the Daedric Prince of the spurned and ostraciszed, patron of the Orsimer; Keeper or Oaths and Curses. His realm is the Ashpit, and his servants are the Ogrim.</content>
+  <content contentuid="7ce17398-6018-473c-80c1-059e9fc7c261" version="1">Mehrunes Dagon</content>
+  <content contentuid="8887602b-b21b-43a4-80fb-f0b40ef12b28" version="1">Mehrunes Dagon is the Prince of Destruction. His sphere is change, energy, and ambition, and is generally considered one of the 'evil' Daedric Princes. His realm is the Deadlands, and his servants are most commonly Scamps, Daedroths, Dremorae, and Xivilai.</content>
+  <content contentuid="716c769f-b821-43d6-88ef-da8ab136d3fd" version="1">Mephala</content>
+  <content contentuid="6e3e06ae-9af1-4a5b-9893-d81990bac510" version="1">Mephala is the Webspinner, the Daedric Prince of Shadows and Murder. Despite this, she is considered one of the more benign Daedric Princes. Her realm is the Spiral Skein, and the Spider Daedra are her servants.</content>
+  <content contentuid="0f5786aa-e313-4c79-b534-ed93fec0f252" version="1">Meridia</content>
+  <content contentuid="0c992e84-8382-4196-bb58-5d43a81c9dcc" version="1">Known by some as the Glister Witch, or the Lady of Infinite Energies, is the Daedric Prince of the energies of all things. Associated with both the Magna-Ge and the Daedric Princes, she presides over the Colored Rooms. Her servants are the Aurorans.</content>
+  <content contentuid="0497a990-6283-4e77-94bb-9688ef10d584" version="1">Molag Bal</content>
+  <content contentuid="644f1db4-abe3-4be5-b7b7-001f1043a12e" version="1">Molag Bal is the Daerdric Prince who's sphere is the enslavement of mortals. Ostensibly one of the truly evil Daedric Princes, he is the father of Vampires. He presides over Coldharbor, and employes Dremorae, Daedroths, and Daedric Titans.</content>
+  <content contentuid="6066e14b-f4da-4490-9510-87022f448fb5" version="1">Namira</content>
+  <content contentuid="a9acc390-7e65-4d96-8f91-2b516ee5c619" version="1">Known as the Lady of Decay, Namira is the Daedric Prince of ancient darkness. One of the 'evil' Daedric Princes, she presides over the Scuttling Void, and her favored servants are the dro-M'athra, dark shadows of long-dead Khajiit.</content>
+  <content contentuid="352e35a0-a802-4041-8329-39957ecd6607" version="1">Nocturnal</content>
+  <content contentuid="e121e493-8bb3-4385-9bd5-90ad26fde000" version="1">Known to some as the Night Mistress, Namira is the Daedric Prince of Night and Darkness. She presides over the Evergloam, Shade Perilous, and other planes, and her servants are the lesser and greater Nocturnals.</content>
+  <content contentuid="54d02e96-8e77-4459-8be4-99694f3a9923" version="1">Peryite</content>
+  <content contentuid="f15b9f0a-e7d7-42f5-9d9a-9bf9887bd6eb" version="1">Peryite is the Daedfric Prince of Tasks, Pestilence, and Natural Order. He generally takes the form of a green, snakelike dragon. He presides over hte realm of the Infernal Pits, and his servants are often Daedrats, Plague Atronacht, and Pestilent Dremorae.</content>
+  <content contentuid="0fc708ae-c81c-47f5-9161-18f1b2e9b0d9" version="1">Sanguine</content>
+  <content contentuid="87bea0da-2e72-4472-9d3d-a4d65b362794" version="1">Sanguine is the Daedric Prince of debauchery, hedonism, and indulgence. He presides over the Myriad Realms of Revelry, a conglomeration of Daedric planes, and his servants are unknown.</content>
+  <content contentuid="2678cfbe-cde4-43b9-a77a-f762afb57873" version="1">Sheogorath</content>
+  <content contentuid="621260e3-80ff-4465-a643-9fc0983cd068" version="1">Sheogorath, the fourth corner of the House of Troubles, the King of the Never-There, and Prince of Madness. He rules over the Shivering Isles, and his favored followers are the Golden Saints and the Dark Seducers.</content>
+  <content contentuid="67a91bab-62ac-4370-938b-7061c7642fda" version="1">Vaermina</content>
+  <content contentuid="33351504-2d69-4cb5-bedb-6a9e39234f41" version="1">Vaermina is the patron Daedra of Mysticism. Her sphere is dreams, nightmares, and visions. She presides over Quagmire, also known as the Dreamstride, and her servants are the Dreamwalkers.</content>
+
+  <!-- Tribunal -->
+  <content contentuid="e4a684b9-9963-4af4-b882-411c7cdd0c4f" version="1">Almalexia</content>
+  <content contentuid="73cd272a-3c02-4e72-bc28-13015d2a878a" version="1">Known also as Ayem, the Lady of Mercy, the Warden, the Lover. Almalexia is the Healing Mother of Morrowind, one of its three God-Kings. She is associated with Boethiah, the Prince of Plots. Hear realms are compassion, sympathy, and forgiveness.</content>
+  <content contentuid="26f82090-a009-42a8-9c3d-621577e22150" version="1">Sotha Sil</content>
+  <content contentuid="f0e5dbaf-9389-4b14-9db7-497295610aef" version="1">Sotha Sil, or Seht, the Sage of the Tribunal, Morrowind's God-Kings. He resides in a city made of clockwork, always busy studying the way the world turns.</content>
+  <content contentuid="da6fa89a-9da8-4868-85a7-4f73b8ddc20c" version="1">Vivec</content>
+  <content contentuid="0b8e76a2-6f2a-496e-94b6-4f9642f06c48" version="1">Vivec, known also as Vehk, the Poet, is the head of the Tribunal, Morrowind's trio of God-Kings. They lead from the temple-city bearing their name. Half Vivec's body is split: Their left, Dunmer, their right, Chimer.</content>
+
+  <!-- Other -->
+  <content contentuid="62b16f2d-8c5e-42b5-9b0f-3b64de621ca1" version="1">Lorkhan</content>
+  <content contentuid="a7621617-3902-40e2-aa71-5fb7fc2793ca" version="1">Lorkhan, the progenitor of all Mortals. Neither Aedra nor Daedra, He is the spirit who convinced the Aedra to create the Mundus, dying in the process. His symbol is the void.</content>
+
+
+  <!-- Beyond the Guide: Implement once the guide is complete -->
+  <!-- Alduin --> <!-- Aspect of Akatosh, but may have special cults -->
+  <!-- Baan-Dar -->
+  <!-- The Revenant -->
+  <!-- Jyggalag -->
+  <!-- Magnus -->
+  <!-- Morihaus -->
+  <!-- Dagoth Ur -->
+  <!-- Reman -->
+  <!-- Tsun -->
+
+  <!-- Aldmer Pantheon -->
+  <!-- Phynaster --> <!-- Heretical for Imperials -->
+  <!-- Syrabane -->
+  <!-- Y'ffre -->
+
+  <!-- Yokudan Pantheon -->
+  <!-- Diagna/The Hoon-Ding -->
+  <!-- Leki -->
+  <!-- Onsi -->
+  <!-- Ruptga -->
+
+  <!-- Khajiiti Pantheon -->
+  <!-- Jode -->
+  <!-- Jone -->
+  <!-- Nirni -->
+
+</contentList>

@@ -1,0 +1,72 @@
+<contentList date="27/11/2020 01:10">
+  <!-- Cantrips -->
+  <content contentuid="d7347974-49ff-4bb9-a872-04a782728a14" version="1">Mental Interference</content>
+  <content contentuid="4cc72b22-7037-4edc-bb70-3227df508c7d" version="1">Pointing a finger at the target, you worm into the target's mind from afar. On hit, you may deal either 1d8 Psychic damage or 1d8 Force damage.</content>
+  <content contentuid="b5896c79-e405-48a4-9940-0d8ae6c48f5b" version="1">Pointing a finger at the target, you worm into the target's mind from afar. On hit, you deal [1]</content>
+  <content contentuid="ca8a0321-cd14-4f18-abae-cfe21880e516" version="1">Project Object</content>
+  <content contentuid="189b698a-83f6-4525-88e6-bb29624f744c" version="1">Your force of will moves any nearby object a short distance away.</content>
+  <content contentuid="b6f47cd2-a782-4516-9491-fd05fd203fd7" version="1">Psychic Howl</content>
+  <content contentuid="f5e34e6a-8669-4cb3-a0b6-0592f6111b1b" version="1">In a moment, you change the winds direction around a specific area. All creatures within its radius must make an Intelligence saving throw or take [1] Damage. If they succeed, they only take half.</content>
+  <content contentuid="f1b90c0b-4566-421e-abe0-6d6876e9707c" version="1">Spectral Shield</content>
+  <content contentuid="f93b8e05-a781-4cc0-aab2-1d1ff1fc4091" version="1">A thin layer of Magicka protects your body, improving your AC by +1.</content>
+  <content contentuid="177d46aa-c77c-46e5-93b8-f58aafde14d2" version="1">You increase your AC by +1 until the beginning of your next turn. In addition, if you are the target of Magic Missiles, the attack automatically misses.</content>
+
+  <!-- 1st Level-->
+  <content contentuid="d9e62d18-1ed9-4d77-8366-364f6b33d628" version="1">Appraising Touch</content>
+  <content contentuid="f74792e6-9c32-4fd4-9643-bc8afc628c27" version="1">This creature has advantage on Intelligence checks relating to an item they hold.</content>
+  <content contentuid="f48a1e31-f132-41a6-82d6-f1be3028116d" version="1">For the duration of the spell, while holding an item, you have advantage on all Intelligence checks relating to it.</content>
+  <content contentuid="b7f2cb94-eebb-4593-ba03-9045061af192" version="1">Brand</content>
+  <content contentuid="1dfe37d0-059b-44e2-9726-4c5b113b2da3" version="1">This creature has been branded, and cannot hide from the caster's eye.</content>
+  <content contentuid="f0eb46a7-bbff-455e-b79d-0cf43fac9786" version="1">You point at a creature within range. For the duration of the spell, the creature must succeed a Wisdom saving throw, or you will know exactly where the creature is, even if they become hidden or turn invisible.</content>
+  <content contentuid="11eb60ac-5d7f-460a-8752-02dc73473b13" version="1">Command</content>
+  <content contentuid="c7d626f4-4308-4ef5-8273-95d78a3ebd5e" version="1">Command a creature to either Halt, Approach, Drop, Grovel, or Flee.</content>
+  <content contentuid="3bd4c897-3b85-47bd-98d2-035771dbb0f8" version="1">Nightshield</content>
+  <content contentuid="7d88088c-ef98-4735-a869-83950a92657d" version="1">This Creature has resistance to Force Damage and is safe from Magic Missile. They also gain 1d4 to all Saving throws.</content>
+  <content contentuid="98c82843-e0a8-47ab-9c2d-d1ffac4894b0" version="1">A protective field of shadowy energy cloaks your body, protecting you from Force damage and Magic Missile, while also granting a bonus to all saving throws. The spell ends if you are exposed to direct sunlight.</content>
+  <content contentuid="7a44ccec-02e5-4525-b7c1-f7ccb90e3fe0" version="1">Pester</content>
+  <content contentuid="faa747f5-31b6-46d5-85ab-b003d8c3d472" version="1">Pestered</content>
+  <content contentuid="12b202dd-8027-40a6-bd79-ec777204789f" version="1">This creature is being driven up the wall by a minor annoyance.</content>
+  <content contentuid="8248d3c0-31a7-4fd3-8274-094ccfc28160" version="1">You cause a creature to be pestered by a seemingly innocuous, though annoying, distraction. A nagging itch it can't reach, a tickle in its throat, an eyelash falling into its eye. If it fails a saving throw, it has disadvantage on attack rolls and Wisdom checks while under the effects.</content>
+  <content contentuid="94200622-f69a-447f-9f49-807d069daf1e" version="1">Prophesized Strike</content>
+  <content contentuid="3719f368-3341-41a1-b56a-5e7d55deb2ff" version="1">Vulnerable</content>
+  <content contentuid="64f10d9a-2410-491a-8513-b4b0d8ca796f" version="1">This creature has been left vulnerable after a magical attack.</content>
+  <content contentuid="6283a6fe-ef0f-47c2-9d71-7e5e2c0de9ed" version="1">You cast your mind's eye a split second forward, finding the perfect opportunity to strike. You may make a melee attack using your Spellcasting modifier, dealing an additional [1], and leaving them vulnerable.</content>
+  <content contentuid="9d1c622a-5f1c-4df3-a800-0e7e8210debd" version="1">Smoke Ladder</content>
+  <content contentuid="cdc31667-d5f0-40a7-9a34-d2f0dcdbff42" version="1">You mold and shape ordinary smoke into a misty ladder, which glamors itself into a metallic-looking form.</content>
+  <content contentuid="219a9ed1-4648-4eb2-9f21-978eeb8b654e" version="1">Wieldskill</content>
+  <content contentuid="ba527d3e-982c-42cf-94a2-bdd7d9520255" version="1">For the duration of the spell, you are proficient in a single skill you declare.</content>
+  <content contentuid="e30ab34e-0b5b-4dcb-869b-1549db590e86" version="1">Wieldskill (Investigation)</content>
+  <content contentuid="15dc3495-0c9e-4523-a8ba-4ab6f10a996a" version="1">You have proficiency in Investigation for 9 turns.</content>
+  <content contentuid="12de9213-f6fb-41ab-91c4-fb308b5ca442" version="1">Wieldskill (Perception)</content>
+  <content contentuid="31efa6fa-c6d6-4964-afd7-6224f8131775" version="1">You have proficiency in Perception for 9 turns.</content>
+  <content contentuid="c1bf17e3-8382-4948-9101-a574b6dbacf9" version="1">Wieldskill (Arcana)</content>
+  <content contentuid="6eefa307-29fa-4dfe-9399-37db6fff7678" version="1">You have proficiency in Arcana for 9 turns.</content>
+  <content contentuid="f089c2b9-d101-4c8d-a06b-940addc1885d" version="1">Wieldskill (Insight)</content>
+  <content contentuid="cce56e8c-5202-4831-bc7c-253fdbb978cd" version="1">You have proficiency in Insight for 9 turns.</content>
+  <content contentuid="ef24666b-f885-41bc-8d0f-a5e735d3bbd4" version="1">Wieldskill (Survival)</content>
+  <content contentuid="a32f59a7-1fa5-4318-84fd-0c2bc8b3579c" version="1">You have proficiency in Survival for 9 turns.</content>
+  <content contentuid="3e829b9a-0608-4b4f-b683-e2178a65a512" version="1">Wieldskill (Religion)</content>
+  <content contentuid="822a6cce-9565-4ca7-9365-695faaab09c6" version="1">You have proficiency in Religion for 9 turns.</content>
+  <content contentuid="7d7f9c3e-62ee-4b9d-9a52-26d929006093" version="1">Wieldskill (Animal Handling)</content>
+  <content contentuid="5603d62a-bc7e-48a8-a88a-fa74188f30e0" version="1">You have proficiency in Animal Handling for 9 turns.</content>
+  <content contentuid="b18e7036-961a-4d97-a9ee-4a443e678bbf" version="1">Wieldskill (Stealth)</content>
+  <content contentuid="a2f861dc-66ff-47fc-886e-8fa0d2081c53" version="1">You have proficiency in Stealth for 9 turns.</content>
+  <content contentuid="011f6c7e-f783-40e6-b275-5d1a3483eb8b" version="1">Wieldskill (Sleight of Hand)</content>
+  <content contentuid="c27a4f43-9dc9-4d62-a2c1-3daa3b0979d6" version="1">You have proficiency in Sleight of Hand for 9 turns.</content>
+  <content contentuid="cbd957b4-5762-428e-aaba-168ce994cc7e" version="1">Wieldskill (History)</content>
+  <content contentuid="af5dfaf3-0d62-450d-a624-6bc1b1d9a084" version="1">You have proficiency in History for 9 turns.</content>
+  <content contentuid="350e9bc0-1609-46c6-83b5-0a5594719f1f" version="1">Wieldskill (Performance)</content>
+  <content contentuid="792619d0-be05-4a3e-a82f-401552c46b46" version="1">You have proficiency in Performance for 9 turns.</content>
+  <content contentuid="3597f242-bbdc-49e9-970c-d350537befd5" version="1">Wieldskill (Deception)</content>
+  <content contentuid="b9e154ac-a8a8-458d-9b05-29d0f4096431" version="1">You have proficiency in Deception for 9 turns.</content>
+  <content contentuid="8fdd24d7-3b01-4303-bc1c-f4c00b91c078" version="1">Wieldskill (Intimidation)</content>
+  <content contentuid="58294f2c-41e2-40af-a72d-f7e777a396f6" version="1">You have proficiency in Intimidation for 9 turns.</content>
+  <content contentuid="19ae952e-beed-4479-a352-daf717b85887" version="1">Wieldskill (Persuasion)</content>
+  <content contentuid="91a6c4bb-b4b5-43a6-8f74-09aedf5e5400" version="1">You have proficiency in Persuasion for 9 turns.</content>
+  <content contentuid="b0e155dc-49e4-4b6d-8ad1-90fa09aa770b" version="1">Wieldskill (Medicine)</content>
+  <content contentuid="e9b6a2f3-2960-4410-9e8e-19075fee3206" version="1">You have proficiency in Medicine for 9 turns.</content>
+  <content contentuid="4dcf0bb5-36b1-4590-83c3-d056cd8e2386" version="1">Wieldskill (Athletics)</content>
+  <content contentuid="f9f56212-5c28-4b25-8ddc-23225654edd0" version="1">You have proficiency in Athletics for 9 turns.</content>
+  <content contentuid="13d501d1-b09f-4311-97d0-706050778ebb" version="1">Wieldskill (Acrobatics)</content>
+  <content contentuid="4c7edfb3-bfd0-49ca-b5e4-cdb626f1bebb" version="1">You have proficiency in Acrobatics for 9 turns.</content>
+</contentList>

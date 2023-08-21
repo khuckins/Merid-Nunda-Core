@@ -1,0 +1,35 @@
+<contentList date="27/11/2020 01:10">
+  <!-- Cantrips -->
+  <content contentuid="a0aa7c41-f5ec-46db-9816-fe8645c4c4a9" version="1">Earwig</content>
+  <content contentuid="03635990-7d67-4c1c-8c65-eff0750950d2" version="1">This creature has disadvantage on Perception checks.</content>
+  <content contentuid="281b2afe-d2c2-4b50-bde2-6b1c6b9400da" version="1">You cause a song, thought, or story to get stuck in a single creature within range's head. For the duration of the spell, the creature has disadvantage on Perception rolls.</content>
+  <content contentuid="67845cab-e9e4-4330-8181-1387bc8aa054" version="1">Magelight</content>
+  <content contentuid="1c8709e3-d250-4c36-96cd-5c1f8ebb3aa6" version="1">Psychic Shock</content>
+  <content contentuid="63d0515c-65fd-4100-920e-d02a738f0e56" version="1">This creature is reliving a painful memory, and has disadvantage on attack rolls.</content>
+  <content contentuid="493f3dad-fe4b-4505-aa8e-607c9cf3e6e3" version="1">You invade another creature's mind, and for one split second, you cause them to perceive some image, noise, or memory that would cause them stress. Choose a target you can see or hear. The creature makes an Intelligence saving throw. If it fails, the creature takes [1], and has Disadvantage on its Attack Rolls this round.</content>
+  <content contentuid="be6eba96-e69d-4857-883e-9df3da1e9bd0" version="1">Silent Portal</content>
+  <content contentuid="e1a710ff-ceae-4873-9f0b-71b5b4e6aee6" version="1">This creature makes less noise when moving through doorways, granting them advantage on Stealth checks.</content>
+  <content contentuid="d11f04e2-e1e0-407e-8d30-0683ff3d3055" version="1">Taking extra care while passing through doors, you have advantage on Stealth Checks.</content>
+
+  <!-- 1st Level-->
+  <content contentuid="117d18f8-e70c-4baa-b405-0dcfef1e389a" version="1">Chameleon</content>
+  <content contentuid="3f87c34b-45ca-47dd-aebd-78b15ad8f953" version="1">This creature is only partially visible, granting them Advantage and Proficiency in Stealth rolls.</content>
+  <content contentuid="fa028923-282c-46c3-a64d-63ffe75c8f8f" version="1">You touch a willing target, causing the coloration and texture of its clothing to blend in with the creature's surroundings. They gain Advantage on and Proficiency in all Stealth rolls.</content>
+  <content contentuid="4a800998-34fa-4275-b6c2-1da9f0a9a38d" version="1">Eye-Maze</content>
+  <content contentuid="e66d43a9-4f47-42cf-b4dc-59f58ccd4724" version="1">This creature is only partially visible, granting them +1 Stealth, and an additional +1 AC.</content>
+  <content contentuid="19359ba4-aa3f-4a0d-a311-15bc9212a126" version="1">This creature is only partially visible, granting them +2 Stealth, and an additional +1 AC.</content>
+  <content contentuid="9ff22746-0e73-488c-982c-651efaaf05f9" version="1">Your body shifts in and out of sight, granting you +1 AC, and +1 Stealth.</content>
+  <content contentuid="4d508361-0c89-4327-af63-158110351713" version="1">Sheogorath's Cackle</content>
+  <content contentuid="85fd7df6-a51f-4ec4-9dec-870470e3a63d" version="1">Misdirected Mark</content>
+  <content contentuid="5a11a8df-bfa3-47c0-8ac4-ab71db7de4a0" version="1">Misdirected Mark (Owner)</content>
+  <content contentuid="678bed36-02ec-444c-9b79-686c7eaa65f3" version="1">This creature believes another has attacked it. It has disadvantage on attack rolls against all other targets.</content>
+  <content contentuid="7f29c5a3-a065-4fc4-b8c9-938ee7ed57db" version="1">You conceal your arcane attack, mentally influencing your foe into both believing the attack came from one of your allies, and focusing on that ally obsessively. Make a ranged spell attack against a target within range. On a hit, the target takes [1]. As a free action, you choose an Ally who this target will believe made the attack.</content>
+  <content contentuid="e6f1672a-7987-4f9d-80c1-0c6d1333e911" version="1">Mark Ally</content>
+  <content contentuid="e7f38795-d7b8-4c14-b727-860ba112d67a" version="1">He Did It!</content>
+  <content contentuid="6986c6df-bc9a-41d5-9fd4-536dc1eeeb88" version="1">This creature is believed to have harmed another.</content>
+  <content contentuid="a5351ac9-5124-4763-b94c-44a2a49ee1c0" version="1">Mark an Ally. The target of Misdirected Mark will not have disadvantage on Attack Rolls against this target.</content>
+  <content contentuid="d53e56d4-80fa-41bb-a0c3-c01d47fa885d" version="1">Muffle</content>
+  <content contentuid="0077522f-ae52-4bd3-90b3-d522ca6444c8" version="1">Muffled</content>
+  <content contentuid="1dfff04f-3798-44e2-af8f-1dc656fca2e2" version="1">Sounds emanating from this creature are difficult to hear. This creature has advantage on Stealth and Slight of Hand rolls.</content>
+  <content contentuid="a5e3ef1f-08e4-4487-bf61-8a5176c09b35" version="1">For the duration, all sound created by a target creature or object that you can see within range is muffled. Creatures affected have advantage on any stealth roll.</content>
+</contentList>
