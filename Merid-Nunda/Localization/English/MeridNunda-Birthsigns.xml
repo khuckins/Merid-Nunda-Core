@@ -24,7 +24,7 @@
       Those born under the sign of the Warrior may add +1 to their Constitution or to their Strength Ability Scores.</content>
   <content contentuid="21435d5f-a4b5-4bff-a762-6ef775c5e0c3" version="1">Warwyrd</content>
   <content contentuid="e0281f85-0199-4511-9253-e11eb9d580e4" version="1">Those born under the sign of the Warrior may add +1 to their Constitution or to their Strength Ability Scores.</content>
-  <content contentuid="2d96b20a-a3d3-4816-9a05-8f096514896d" version="1">The Warrior is the first Guardian Constellation and he protects his charges during their Seasons. The Warrior's own season is Last Seed, when his Strength is needed for the harvest. His charges are the Lady, the Steed, and the Lord. Those born under the sign of the Warrior are skilled with weapons of all kinds, but prone to short tempers.</content>
+  <content contentuid="" version="1">The Warrior is the first Guardian Constellation and he protects his charges during their Seasons. The Warrior's own season is Last Seed, when his Strength is needed for the harvest. His charges are the Lady, the Steed, and the Lord. Those born under the sign of the Warrior are skilled with weapons of all kinds, but prone to short tempers.</content>
   
   <!-- The Mage -->
   <content contentuid="942d69fd-a633-4bad-9ff9-4445f801fbae" version="1">The Mage (Intelligence)</content>
@@ -134,8 +134,10 @@
   <content contentuid="15283a03-5e05-4c03-948c-5dd4f4ef3748" version="1">The Serpent wanders about the sky and has no season, though its motions are predictable to a defree. No characteristics are common toall who are born under the sign of the Serpent. Those born under this sign are the most blessed and the most cursed.
 
       Those born under the sign of the Shadow have an additional Bonus Action, as well as the Star-Cursed power.</content>
+  <content contentuid="41ffcb5a-694d-4738-9b8d-b1275dd5f7ae" version="1">Those born under the sign of the Serpent have the Star-Cursed power.</content>
   <content contentuid="4393337a-cb36-4c2a-84b4-8962f3a44486" version="1">Star-Curse</content>
   <content contentuid="a7228251-7657-494f-a2aa-1a14490776fb" version="1">Once per long rest, you can inflict poison on a creature that you touch, causing them to take [1] per turn for the duration of the power.</content>
+  <content contentuid="4fe02522-4c79-4808-a6fd-9b621b5ffa54" version="1">In addition, you take 1 point of Psychic damage at the beginning of each turn for the duration of the power.</content>
   <content contentuid="fdee63b6-3dd2-4a77-83b0-8a60d738db93" version="1">Star-Cursed</content>
   <content contentuid="a67c87da-85ed-4f90-b0c9-104025250ae2" version="1">You've been cursed by one born under the sign of the Serpent. At the end of each turn, you take [1].</content>
   <content contentuid="65883f56-3259-4a6f-82f8-e17bdda6acdf" version="1">You've cursed a character with your Star-Curse. You share in the pain, taking [1].</content>
